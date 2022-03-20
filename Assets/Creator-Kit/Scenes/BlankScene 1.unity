@@ -195,12 +195,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e900e5d3880953f48862925fa2ac52d9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 40
+  speed: 30
   acceleration: 0.2
   nextMoveCommand: {x: 0, y: 0, z: 0}
   animator: {fileID: 211842661}
   flipX: 0
-  jumpPower: 35
+  jumpPower: 65
   allowedJumps: 1
   jumpDuration: 0.8
   jumpEffect: {fileID: 0}
@@ -2273,7 +2273,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e4910a6ac3d83f045a15036ef904b985, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  stepSize: 0.2
+  stepSize: 0.15
   player: {fileID: 211842657}
 --- !u!1 &855558700
 GameObject:
@@ -8888,7 +8888,7 @@ PrefabInstance:
     - target: {fileID: 8171158353334016008, guid: 84535a21e4ab6412690b5fa8acc3908e,
         type: 3}
       propertyPath: m_Mass
-      value: 3
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 8171158353334016008, guid: 84535a21e4ab6412690b5fa8acc3908e,
         type: 3}
@@ -8908,7 +8908,7 @@ PrefabInstance:
     - target: {fileID: 8171158353334016008, guid: 84535a21e4ab6412690b5fa8acc3908e,
         type: 3}
       propertyPath: m_GravityScale
-      value: 5
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 8171158353334016009, guid: 84535a21e4ab6412690b5fa8acc3908e,
         type: 3}
@@ -9025,7 +9025,8 @@ PrefabInstance:
       propertyPath: m_Offset.y
       value: 0.3612722
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 8171158353334016011, guid: 84535a21e4ab6412690b5fa8acc3908e, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 84535a21e4ab6412690b5fa8acc3908e, type: 3}
 --- !u!156049354 &8449810194728270340
 Grid:
