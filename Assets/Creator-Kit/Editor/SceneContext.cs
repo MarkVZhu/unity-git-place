@@ -10,7 +10,7 @@ namespace RPGM.EditorExtensions
     public static class SceneContext
     {
         static readonly string[] specialFolders = new[] {
-            "Assets/Creator Kit - RPG/Gameplay Prefabs"
+            "Assets/Creator-Kit/Gameplay Prefabs"
         };
 
         static System.Diagnostics.Stopwatch clickClock;
