@@ -79,14 +79,17 @@ namespace RPGM.Gameplay
 
         public void JumpInput()
         {
+            //Debug.Log("Get Jump Input");
             StartCoroutine("Jump", 1.0f);
         }
 
         void Jump(float powerMultiplier = 1.0f)
         {
-           // state = State.Jump;
+            //Debug.Log("Jump");
+            // state = State.Jump;
             if (isGround)
             {
+                //Debug.Log("Yes Ground: Jump");
                 jumping = true;
                 float time = 0;
                 rigidbody2D.velocity = new Vector2(rigidbody2D.velocity.x, 0);
@@ -111,7 +114,7 @@ namespace RPGM.Gameplay
 
         void Update()
         {
-            isGround = Physics2D.OverlapCircle(this.transform.position, 0.025f, WhatIsGround);
+            isGround = Physics2D.OverlapCircle(this.transform.position, 0.64f, WhatIsGround);
             switch (state)
             {
                 case State.Idle:
