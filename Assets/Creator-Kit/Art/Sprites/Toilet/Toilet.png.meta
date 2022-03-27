@@ -1,0 +1,333 @@
+fileFormatVersion: 2
+guid: 370d3087fd6b7aa4b9d73b4e1c34bbd2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2699615200178430186
+    second: Toilet_0
+  - first:
+      213: -7076366983007463288
+    second: Toilet_1
+  - first:
+      213: 1187530271895502419
+    second: Toilet_2
+  - first:
+      213: -6389866994033431382
+    second: Toilet_3
+  - first:
+      213: -2447547580089244095
+    second: Toilet_4
+  - first:
+      213: 6652094806327903059
+    second: Toilet_5
+  - first:
+      213: -635439673052681798
+    second: Toilet_6
+  - first:
+      213: -4405706877691898427
+    second: Toilet_7
+  - first:
+      213: 1942993013583358314
+    second: Toilet_8
+  - first:
+      213: -6077054200351040813
+    second: Toilet_9
+  - first:
+      213: 370648142881958079
+    second: Toilet_10
+  - first:
+      213: 8989247301453490663
+    second: Toilet_11
+  - first:
+      213: 274425214483155441
+    second: Toilet_12
+  - first:
+      213: 4988186267122024614
+    second: Toilet_13
+  - first:
+      213: 2347503211543246232
+    second: Toilet_14
+  - first:
+      213: -115597959951746176
+    second: Toilet_15
+  - first:
+      213: 38062827266627521
+    second: Toilet_16
+  - first:
+      213: -1895476899739593326
+    second: Toilet_17
+  - first:
+      213: 5556816743017458358
+    second: Toilet_18
+  - first:
+      213: -4374250208183847807
+    second: Toilet_19
+  - first:
+      213: 8482208624441364663
+    second: Toilet_20
+  - first:
+      213: -3341850394280331902
+    second: Toilet_21
+  - first:
+      213: 192979389426396658
+    second: Toilet_22
+  - first:
+      213: -969676034201008889
+    second: Toilet_23
+  - first:
+      213: -5428261599921751270
+    second: Toilet_24
+  - first:
+      213: 8435282537405787136
+    second: Toilet_25
+  - first:
+      213: 1728711790864283806
+    second: Toilet_26
+  - first:
+      213: 6033447592646105692
+    second: Toilet_27
+  - first:
+      213: 5574392464567756012
+    second: Toilet_28
+  - first:
+      213: -1260394932801097105
+    second: Toilet_29
+  - first:
+      213: 2193291559452493388
+    second: Toilet_30
+  - first:
+      213: -4468792810813718018
+    second: Toilet_31
+  - first:
+      213: -4429474668796165765
+    second: Toilet_32
+  - first:
+      213: 4527225675814410068
+    second: Toilet_33
+  - first:
+      213: 8846899015671978383
+    second: Toilet_34
+  - first:
+      213: -469693160108551644
+    second: Toilet_35
+  - first:
+      213: -5553493152465272608
+    second: Toilet_36
+  - first:
+      213: -7906916794113603136
+    second: Toilet_37
+  - first:
+      213: 4783971720647059528
+    second: Toilet_38
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Toilet_0
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61f9e13574a098ad0800000000000000
+      internalID: -2699615200178430186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toilet_1
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 55
+        width: 43
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 888998d98b1bbcd90800000000000000
+      internalID: -7076366983007463288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toilet_2
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35eba509d74fa7010800000000000000
+      internalID: 1187530271895502419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toilet_3
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 48
+        width: 45
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aace4aae2d1a257a0800000000000000
+      internalID: -6389866994033431382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
