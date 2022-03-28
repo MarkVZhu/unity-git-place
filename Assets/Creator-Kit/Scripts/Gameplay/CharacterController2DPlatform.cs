@@ -40,8 +40,10 @@ namespace RPGM.Gameplay
         private bool jumping = false;
 
         public LayerMask WhatIsGround;
-
+        public GameObject groundChecker; 
         public bool isGround;
+
+        public GameObject shedow;
 
         enum State
         {
@@ -114,7 +116,9 @@ namespace RPGM.Gameplay
 
         void Update()
         {
-            isGround = Physics2D.OverlapCircle(this.transform.position, 0.64f, WhatIsGround);
+            isGround = Physics2D.OverlapCircle(groundChecker.transform.position, 0.01f, WhatIsGround);
+            if (isGround && (shedow.activeInHierarchy == false)) shedow.SetActive(true);
+            else if (!isGround && shedow.activeInHierarchy) shedow.SetActive(false);
             switch (state)
             {
                 case State.Idle:
