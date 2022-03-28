@@ -31,7 +31,7 @@ TextureImporter:
     second: chractor_8
   - first:
       213: -3365047667702342729
-    second: chractor_9
+    second: idle0
   - first:
       213: -4221588788289018202
     second: idle_1
@@ -340,13 +340,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chractor_9
+      name: idle0
       rect:
         serializedVersion: 2
-        x: 296
+        x: 292
         y: 4
-        width: 60
-        height: 124
+        width: 64
+        height: 128
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
