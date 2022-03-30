@@ -11,8 +11,8 @@ namespace PixelCrushers.Wrappers
     /// class.
     /// </summary>
     [AddComponentMenu("Pixel Crushers/Common/UnityEvents/Trigger Event")]
-    public class TriggerEvent : PixelCrushers.TriggerEvent
-    {
+    public class TriggerEvent : PixelCrushers.TriggerEvent{
+        
     }
 
 }
