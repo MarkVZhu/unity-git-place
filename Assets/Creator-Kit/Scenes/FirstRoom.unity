@@ -2027,8 +2027,8 @@ MonoBehaviour:
   skipBarkIfNoValidEntries: 0
   cacheBarkLines: 0
   conversation: 'Task1: Find ID card'
-  conversationConversant: {fileID: 131326313}
-  conversationActor: {fileID: 1781258411}
+  conversationConversant: {fileID: 0}
+  conversationActor: {fileID: 0}
   startConversationEntryID: -1
   exclusive: 0
   replace: 0
@@ -4326,7 +4326,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   image: {fileID: 373255267}
   tshow: 3
-  thide: 8
+  thide: 15
 --- !u!1 &382205095
 GameObject:
   m_ObjectHideFlags: 0
@@ -5839,7 +5839,7 @@ MonoBehaviour:
   useConversationTitlePicker: 1
   useBarkTitlePicker: 1
   useQuestNamePicker: 1
-  selectedDatabase: {fileID: 0}
+  selectedDatabase: {fileID: 11400000, guid: 3700f1c9eab483145be72905a1b38287, type: 2}
 --- !u!114 &887500225
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -18727,11 +18727,6 @@ PrefabInstance:
       propertyPath: m_Offset.y
       value: -0.4228976
       objectReference: {fileID: 0}
-    - target: {fileID: 8171158353334016011, guid: 84535a21e4ab6412690b5fa8acc3908e,
-        type: 3}
-      propertyPath: m_IsTrigger
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 8171158353334016012, guid: 84535a21e4ab6412690b5fa8acc3908e,
         type: 3}
       propertyPath: m_Sprite
@@ -18847,11 +18842,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Offset.y
       value: -0.43089196
-      objectReference: {fileID: 0}
-    - target: {fileID: 8171158353334016022, guid: 84535a21e4ab6412690b5fa8acc3908e,
-        type: 3}
-      propertyPath: m_IsTrigger
-      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8171158353547470272, guid: 84535a21e4ab6412690b5fa8acc3908e,
         type: 3}

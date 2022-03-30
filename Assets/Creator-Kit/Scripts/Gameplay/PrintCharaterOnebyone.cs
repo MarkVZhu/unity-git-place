@@ -35,7 +35,7 @@ public class PrintCharaterOnebyone : MonoBehaviour
     {
 
         curTime = Time.time;
-        if (curTime - lastTime >= 2) {  // 停留一定时间阅读第一段文字
+        if (curTime - lastTime >= 4) {  // 停留一定时间阅读第一段文字
 
             OnStartWriter();
         //Debug.Log (isActive);
