@@ -66,7 +66,7 @@ namespace RPGM.UI
             else if (Input.GetKey(KeyCode.W) && climbArea.GetComponent<ClimbCheck>().climbing)
             {
                 player.GetComponent<CharacterController2DPlatform>().nextMoveCommand = Vector3.up * stepSize;
-                player.GetComponent<Rigidbody2D>().gravityScale = 0;
+                player.GetComponent<Rigidbody2D>().gravityScale = 2;
             }
             else
                 player.GetComponent<CharacterController2DPlatform>().nextMoveCommand = Vector3.zero;
