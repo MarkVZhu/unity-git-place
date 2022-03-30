@@ -8,7 +8,7 @@ public class StoryDisplay : MonoBehaviour
 
 	public GameObject image;
 	public int tshow=3;//展示等待时间
-	public int thide = 8;//隐藏等待时间
+	public int thide = 10;//隐藏等待时间
 
 	// Use this for initialization
 	void Start()
