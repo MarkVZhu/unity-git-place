@@ -6,6 +6,7 @@ The following picture is the logo of ROOM.
 <div align=center><img src="https://user-images.githubusercontent.com/61057370/160802261-e36150c2-5186-4433-a415-c159427c475d.jpg" width="150" height="150" alt="ROOM"/></div>
   
 ## Design
+This game uses the puzzle in levels to tell the story of a person on drugs. In his last moments of life, he tried saving himself and discovering the truth. The player learns the reality behind all the mysteries around him by taking on the role and searching for answers in different rooms. In ROOM, players can experience the discomfort and pain of man on drugs,and the designs of scenes, interactions, and stories in the game all do tell the player how dangerous drugs are.  
 
 ## Art
 The artist in our group has decided on the art style, an abnormal world after the main character takes the drug, of the game including building the map modifying the idea of the game designer into a more vivid and attractive expression, deciding and re-design the game assert to exhibit the atmosphere of a strange abandoned hospital after main character taking drugs.   
