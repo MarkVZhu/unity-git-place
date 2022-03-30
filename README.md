@@ -8,7 +8,7 @@ The following picture is the logo of ROOM.
 ## Design
 
 ## Art
-
+The artist in our group has decides the art style, an abnormal world after the main character taking the drug, of the game including building map modifying the idea of game designer into a more vivid and attracting expression, deciding and re-design the game assert to exhibit the atmosphere of a strange abandoned hospital after main character taking drug.   
 ## Program
 
 ## Guide
