@@ -13,7 +13,7 @@ The artist in our group has decides the art style, an abnormal world after the m
 ## Program
 
 ## Guide  
-If you want to continue the development of this game, you should find assets in the directory below (Asset/Creator-Kit). In detail, you can find art materials including pictures and animations in *Art* fold; find audio resource including music and sounds in **Audio** fold; find some utilitarian prefabs in **Prefabs** fold; find different levels in **Scenes** fold; find codes in **Scripts** fold.  
+If you want to continue the development of this game, you should find assets in the directory below (Asset/Creator-Kit). In detail, you can find art materials including pictures and animations in **Art** fold; find audio resource including music and sounds in **Audio** fold; find some utilitarian prefabs in **Prefabs** fold; find different levels in **Scenes** fold; find codes in **Scripts** fold.  
 <div align=center><img src="https://user-images.githubusercontent.com/61057370/160852793-2e076dbf-1c21-4a0c-985b-0bc55165268f.png" width="600" height="450" alt="ROOM"/></div>
 
 ## Play 
