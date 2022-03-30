@@ -12,6 +12,7 @@ This game uses the puzzle in levels to tell the story of a person on drugs. In h
 The artist in our group has decided on the art style, an abnormal world after the main character takes the drug, of the game including building the map modifying the idea of the game designer into a more vivid and attractive expression, deciding and re-design the game assert to exhibit the atmosphere of a strange abandoned hospital after main character taking drugs.   
 
 ## Program
+Because in ROOM there are platform and plane two kinds of gameplay perspective, we set up two sets of input system (InputController2D.cs & InputController2DPlatform. cs).  These scripts are bound within the scene Controller (GameObject), and interact with CharacterController2D.cs and CharacterController2DPlatform.cs on Character (GameObject). Hence, players can use different input modes in different levels.  
 
 ## Guide  
 If you want to continue the development of this game, you should find assets in the directory below (Asset/Creator-Kit). In detail, you can find art materials including pictures and animations in **Art** fold; find audio resources including music and sounds in **Audio** fold; find some utilitarian prefabs in **Prefabs** fold; find different levels in **Scenes** fold; find codes in **Scripts** fold.  
