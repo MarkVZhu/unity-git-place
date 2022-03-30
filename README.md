@@ -14,3 +14,11 @@ The following picture is the logo of ROOM.
 ## Guide
 
 ## Play 
+
+## Contributors 
+**Yunfeng Zhu / Mark** —— Game Producer & Lead Programmer
+**Jinkua Liu / Allen** —— Lead Artist
+**Yihuang Liu / Jessica** —— Programmer
+**Chengxiang Yang / Truman** —— Designer (Gameplay)
+**Luyao Bi / Sycamore** —— Designer (Level)
+**We Xu / Leo** —— Audio Collector
