@@ -11,6 +11,7 @@ namespace RPGM.UI
     {
         public float stepSize = 0.2f;
         public GameObject player = null;
+        public GameObject climbArea = null;
         GameModel model = Schedule.GetModel<GameModel>();
         
         public enum State
@@ -61,6 +62,11 @@ namespace RPGM.UI
             {
                 player.GetComponent<CharacterController2DPlatform>().nextMoveCommand = Vector3.right * stepSize;
                 player.transform.localScale = new Vector3(-1, 1, 1);
+            }
+            else if (Input.GetKey(KeyCode.W) && climbArea.GetComponent<ClimbCheck>().climbing)
+            {
+                player.GetComponent<CharacterController2DPlatform>().nextMoveCommand = Vector3.up * stepSize;
+                player.GetComponent<Rigidbody2D>().gravityScale = 2;
             }
             else
                 player.GetComponent<CharacterController2DPlatform>().nextMoveCommand = Vector3.zero;
