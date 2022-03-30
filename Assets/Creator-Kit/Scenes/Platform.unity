@@ -258,7 +258,7 @@ MonoBehaviour:
   nextMoveCommand: {x: 0, y: 0, z: 0}
   animator: {fileID: 1781258412}
   flipX: 0
-  jumpPower: 30
+  jumpPower: 35
   allowedJumps: 1
   jumpDuration: 0.8
   jumpEffect: {fileID: 0}
