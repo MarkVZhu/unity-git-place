@@ -8725,7 +8725,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c593457cd8105e148906690e1707c592, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  trigger: 32
+  trigger: 8
   condition:
     luaConditions:
     - CurrentQuestState("Find ID Card") == "active"
@@ -8795,7 +8795,7 @@ BoxCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0.039803028, y: -0.10614085}
+  m_Offset: {x: 0.0040357113, y: -0.2445455}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
@@ -8806,7 +8806,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 0.8059168, y: 0.7346482}
+  m_Size: {x: 0.73438215, y: 0.46405932}
   m_EdgeRadius: 0
 --- !u!114 &1987129648
 MonoBehaviour:
