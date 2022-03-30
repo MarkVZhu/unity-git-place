@@ -10,7 +10,7 @@ This game uses the puzzle in levels to tell the story of a person on drugs. In h
 
 ## Art
 The artist in our group has decided on the art style, an abnormal world after the main character takes the drug, of the game including building the map modifying the idea of the game designer into a more vivid and attractive expression, deciding and re-design the game assert to exhibit the atmosphere of a strange abandoned hospital after main character taking drugs.   
-<div align=center><img src="https://user-images.githubusercontent.com/61057370/160870714-00652013-ec56-412a-9c24-367029ccb8ac.png" width="150" height="150" alt="Chractor"/></div>
+<div align=center><img src="https://user-images.githubusercontent.com/61057370/160870714-00652013-ec56-412a-9c24-367029ccb8ac.png" width="200" height="150" alt="Chractor"/></div>
 
 
 ## Program
