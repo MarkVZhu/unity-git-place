@@ -5519,7 +5519,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &855558701
 Transform:
   m_ObjectHideFlags: 0
@@ -7118,6 +7118,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3534774729685244126, guid: d96c0846c7d644f72bfbf301de1def5c,
+        type: 3}
+      propertyPath: audioClip
+      value: 
+      objectReference: {fileID: 8300000, guid: d1d5d88f149aac4479051bdd6f57c872, type: 3}
     - target: {fileID: 7948309521016487140, guid: d96c0846c7d644f72bfbf301de1def5c,
         type: 3}
       propertyPath: batches.Array.data[0].sceneParent
