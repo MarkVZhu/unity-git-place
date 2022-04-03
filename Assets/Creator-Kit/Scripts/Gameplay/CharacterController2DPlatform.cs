@@ -116,7 +116,7 @@ namespace RPGM.Gameplay
 
         void Update()
         {
-            isGround = Physics2D.OverlapCircle(groundChecker.transform.position, 0.01f, WhatIsGround);
+            isGround = Physics2D.OverlapCircle(groundChecker.transform.position, 0.1f, WhatIsGround);
             if (isGround && (shedow.activeInHierarchy == false)) shedow.SetActive(true);
             else if (!isGround && shedow.activeInHierarchy) shedow.SetActive(false);
             switch (state)
