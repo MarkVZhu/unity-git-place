@@ -17,7 +17,7 @@ The artist in our group has decided on the art style, an abnormal world after th
 Because in ROOM there are platform and plane two kinds of gameplay perspective, we set up two sets of input system (InputController2D.cs & InputController2DPlatform. cs).  These scripts are bound within the scene Controller (GameObject), and interact with CharacterController2D.cs and CharacterController2DPlatform.cs on Character (GameObject). Hence, players can use different input modes in different levels.  In addition, the dialogue system realizes the dialogue and interaction between Character and NPC. Though setting different prerequisites and results， it can complete the effect of different choices violating different endings. Besides, the quest function guides the player to explore the room by setting up a series of quests.
 
 ## Guide
-Unity Editer version: 2020.3.32 or 2020.3.25  
+Unity Editer version: 2020.3.32f1c1 or 2020.3.25f1c1  
 If you want to continue the development of this game, you should find assets in the directory below (Asset/Creator-Kit). In detail, you can find art materials including pictures and animations in **Art** fold; find audio resources including music and sounds in **Audio** fold; find some utilitarian prefabs in **Prefabs** fold; find different levels in **Scenes** fold; find codes in **Scripts** fold.  
 <div align=center><img src="https://user-images.githubusercontent.com/61057370/160852793-2e076dbf-1c21-4a0c-985b-0bc55165268f.png" width="600" height="450" alt="Directory"/></div>
 
