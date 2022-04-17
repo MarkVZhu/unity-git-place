@@ -8,7 +8,7 @@ TagManager:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Background
   - Water
   - UI
   - 
@@ -46,4 +46,10 @@ TagManager:
     locked: 0
   - name: character
     uniqueID: 2777712093
+    locked: 0
+  - name: UI
+    uniqueID: 3712945269
+    locked: 0
+  - name: Collections
+    uniqueID: 1230824295
     locked: 0
