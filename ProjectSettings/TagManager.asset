@@ -50,6 +50,9 @@ TagManager:
   - name: UI
     uniqueID: 3712945269
     locked: 0
+  - name: Maze
+    uniqueID: 1793364951
+    locked: 0
   - name: Collections
     uniqueID: 1230824295
     locked: 0
