@@ -44,12 +44,6 @@ TagManager:
   - name: background
     uniqueID: 2499174537
     locked: 0
-  - name: UI
-    uniqueID: 3219341251
-    locked: 0
   - name: character
     uniqueID: 2777712093
-    locked: 0
-  - name: Collections
-    uniqueID: 2288415215
     locked: 0
