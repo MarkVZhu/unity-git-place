@@ -1,160 +1,154 @@
 fileFormatVersion: 2
-guid: 3f198c94b65508c44a32b4b4072bb419
+guid: f6670d2141aab7c48b13e8dc394a383c
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 21300000
-    second: Warrior_WalkEW_00
+      213: 4094919139230253274
+    second: Characters02_Animation_ver_0
   - first:
-      213: 21300002
-    second: Warrior_WalkEW_01
+      213: -6221840040290804387
+    second: Characters02_Animation_ver_1
   - first:
-      213: 21300004
-    second: Warrior_WalkEW_02
+      213: 8538497099414882512
+    second: Characters02_Animation_ver_2
   - first:
-      213: 21300006
-    second: Warrior_WalkEW_03
+      213: 990171814902999520
+    second: Characters02_Animation_ver_3
   - first:
-      213: 21300008
-    second: Warrior_WalkEW_04
+      213: 1568864974400759440
+    second: Characters02_Animation_ver_4
   - first:
-      213: 21300010
-    second: Warrior_WalkEW_05
+      213: -312674124357167580
+    second: Characters02_Animation_ver_5
   - first:
-      213: 21300012
-    second: Warrior_WalkEW_06
+      213: 3519521024919200586
+    second: Characters02_Animation_ver_6
   - first:
-      213: 21300014
-    second: Warrior_WalkEW_07
+      213: 8344275599689473204
+    second: Characters02_Animation_ver_7
   - first:
-      213: 21300016
-    second: Warrior_WalkS_00
+      213: -6273368477896119142
+    second: Characters02_Animation_ver_8
   - first:
-      213: 21300018
-    second: Warrior_WalkS_01
+      213: -7654072653148879865
+    second: Characters02_Animation_ver_9
   - first:
-      213: 21300020
-    second: Warrior_WalkS_02
+      213: -7207924081823927117
+    second: Characters02_Animation_ver_10
   - first:
-      213: 21300022
-    second: Warrior_WalkS_03
+      213: 8881631998656325952
+    second: Characters02_Animation_ver_11
   - first:
-      213: 21300024
-    second: Warrior_WalkS_04
+      213: 1150411648722700550
+    second: Characters02_Animation_ver_12
   - first:
-      213: 21300026
-    second: Warrior_WalkS_05
+      213: 2755484260093095762
+    second: Characters02_Animation_ver_13
   - first:
-      213: 21300028
-    second: Warrior_WalkS_06
+      213: -1027470257155594016
+    second: Characters02_Animation_ver_14
   - first:
-      213: 21300030
-    second: Warrior_WalkS_07
+      213: 6869584329534192536
+    second: Characters02_Animation_ver_15
   - first:
-      213: 21300032
-    second: Warrior_WalkN_00
+      213: -7434564164933007334
+    second: Characters02_Animation_ver_16
   - first:
-      213: 21300034
-    second: Warrior_WalkN_01
+      213: 494096153774718070
+    second: Characters02_Animation_ver_17
   - first:
-      213: 21300036
-    second: Warrior_WalkN_02
+      213: -2444245120376345404
+    second: Characters02_Animation_ver_18
   - first:
-      213: 21300038
-    second: Warrior_WalkN_03
+      213: 6287896777636828895
+    second: Characters02_Animation_ver_19
   - first:
-      213: 21300040
-    second: Warrior_WalkN_04
+      213: -1776578522788364359
+    second: Characters02_Animation_ver_20
   - first:
-      213: 21300042
-    second: Warrior_WalkN_05
+      213: 1360659122039281265
+    second: Characters02_Animation_ver_21
   - first:
-      213: 21300044
-    second: Warrior_WalkN_06
+      213: 6064528033090580051
+    second: Characters02_Animation_ver_22
   - first:
-      213: 21300046
-    second: Warrior_WalkN_07
+      213: -968396726111400818
+    second: Characters02_Animation_ver_23
   - first:
-      213: 21300048
-    second: _Warrior
+      213: -6999485224920257749
+    second: Characters02_Animation_ver_24
   - first:
-      213: 21300050
-    second: Warrior_Idle_01
+      213: -5423426816194412287
+    second: Characters02_Animation_ver_25
   - first:
-      213: 21300052
-    second: Warrior_Idle_02
+      213: -1948733791374009621
+    second: Characters02_Animation_ver_26
   - first:
-      213: 21300054
-    second: Warrior_Idle_03
+      213: -3092311935117110302
+    second: Characters02_Animation_ver_27
   - first:
-      213: 21300056
-    second: Warrior_Idle_04
+      213: -3954166772304573736
+    second: Characters02_Animation_ver_28
   - first:
-      213: 21300058
-    second: Warrior_Idle_05
+      213: -9151876306276065221
+    second: Characters02_Animation_ver_29
   - first:
-      213: 21300060
-    second: Warrior_Idle_06
+      213: 8243474498258773926
+    second: Characters02_Animation_ver_30
   - first:
-      213: 21300062
-    second: Warrior_Idle_07
+      213: -457075373167721018
+    second: Characters02_Animation_ver_31
   - first:
-      213: 21300064
-    second: _Villager01
+      213: 5778205428226451978
+    second: Characters02_Animation_ver_32
   - first:
-      213: 21300066
-    second: Villager01_Idle_01
+      213: 2898793218692161140
+    second: Characters02_Animation_ver_33
   - first:
-      213: 21300068
-    second: Villager01_Idle_02
+      213: -8686904268879803232
+    second: Characters02_Animation_ver_34
   - first:
-      213: 21300070
-    second: Villager01_Idle_03
+      213: 6206016013514077049
+    second: Characters02_Animation_ver_35
   - first:
-      213: 21300072
-    second: Villager01_Idle_04
+      213: 680059672482402446
+    second: Characters02_Animation_ver_36
   - first:
-      213: 21300074
-    second: Villager01_Idle_05
+      213: 2362053856126240701
+    second: Characters02_Animation_ver_37
   - first:
-      213: 21300076
-    second: Villager01_Idle_06
+      213: -6022533132637378768
+    second: Characters02_Animation_ver_38
   - first:
-      213: 21300078
-    second: Villager01_Idle_07
+      213: -5385560385569266150
+    second: Characters02_Animation_ver_39
   - first:
-      213: 21300080
-    second: _Villager02
+      213: 5639944231445604703
+    second: Characters02_Animation_ver_40
   - first:
-      213: 21300082
-    second: Villager02_Idle_01
+      213: 5501758632318678216
+    second: Characters02_Animation_ver_41
   - first:
-      213: 21300084
-    second: Villager02_Idle_02
+      213: -2787967604797952884
+    second: Characters02_Animation_ver_42
   - first:
-      213: 21300086
-    second: Villager02_Idle_03
+      213: -8436378189546787233
+    second: Characters02_Animation_ver_43
   - first:
-      213: 21300088
-    second: Villager02_Idle_04
+      213: -2795485407621127026
+    second: Characters02_Animation_ver_44
   - first:
-      213: 21300090
-    second: Villager02_Idle_05
+      213: -5775792894316911427
+    second: Characters02_Animation_ver_45
   - first:
-      213: 21300092
-    second: Villager02_Idle_06
+      213: -7199366037858621380
+    second: Characters02_Animation_ver_46
   - first:
-      213: 21300094
-    second: Villager02_Idle_07
+      213: 2350686976124972886
+    second: Characters02_Animation_ver_47
   - first:
-      213: 21300096
-    second: _Chicken
-  - first:
-      213: 21300098
-    second: Chicken_Idle_01
-  - first:
-      213: 21300100
-    second: WarriorAndVillagers_AnimationSheet_50
+      213: -2586205858786579287
+    second: Characters02_Animation_ver_48
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -185,12 +179,12 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 0
+    filterMode: 1
     aniso: 1
     mipBias: 0
     wrapU: 1
     wrapV: 1
-    wrapW: 0
+    wrapW: 1
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
@@ -214,14 +208,14 @@ TextureImporter:
   compressionQualitySet: 0
   textureFormatSet: 0
   ignorePngGamma: 0
-  applyGammaDecoding: 1
+  applyGammaDecoding: 0
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 512
+    maxTextureSize: 2048
     resizeAlgorithm: 0
-    textureFormat: 4
-    textureCompression: 0
+    textureFormat: -1
+    textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -230,1101 +224,1044 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: Standalone
-    maxTextureSize: 512
+    maxTextureSize: 2048
     resizeAlgorithm: 0
-    textureFormat: 4
-    textureCompression: 0
+    textureFormat: -1
+    textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 3
-    buildTarget: iPhone
-    maxTextureSize: 512
-    resizeAlgorithm: 0
-    textureFormat: 4
-    textureCompression: 0
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: Android
-    maxTextureSize: 512
-    resizeAlgorithm: 0
-    textureFormat: 4
-    textureCompression: 0
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: WebGL
-    maxTextureSize: 512
-    resizeAlgorithm: 0
-    textureFormat: 4
-    textureCompression: 0
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Warrior_WalkEW_00
+      name: Characters02_Animation_ver_0
       rect:
         serializedVersion: 2
-        x: 0
+        x: 3
         y: 448
-        width: 64
+        width: 56
         height: 64
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 46d52e1e581af49a78fa5465c99791c9
-      internalID: 21300000
+      spriteID: ad084c5e24314d830800000000000000
+      internalID: 4094919139230253274
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Warrior_WalkEW_01
+      name: Characters02_Animation_ver_1
       rect:
         serializedVersion: 2
-        x: 64
+        x: 66
         y: 448
-        width: 64
-        height: 64
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        width: 59
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2660cc95a4118477b8319b7013c10692
-      internalID: 21300002
+      spriteID: d5d1a25b27597a9a0800000000000000
+      internalID: -6221840040290804387
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Warrior_WalkEW_02
+      name: Characters02_Animation_ver_2
       rect:
         serializedVersion: 2
-        x: 128
+        x: 135
+        y: 447
+        width: 47
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d8c35e7fd5de7670800000000000000
+      internalID: 8538497099414882512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Characters02_Animation_ver_3
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 384
+        width: 58
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e9a5edf40ccdbd00800000000000000
+      internalID: 990171814902999520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Characters02_Animation_ver_4
+      rect:
+        serializedVersion: 2
+        x: 264
         y: 448
-        width: 64
+        width: 46
         height: 64
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: dec397028763d4b25b8f3dff0d20c9c2
-      internalID: 21300004
+      spriteID: 096a5bbc16ab5c510800000000000000
+      internalID: 1568864974400759440
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Warrior_WalkEW_03
+      name: Characters02_Animation_ver_5
       rect:
         serializedVersion: 2
-        x: 192
+        x: 328
         y: 448
-        width: 64
-        height: 64
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        width: 48
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fdbdcaa9d8f9c4954a39e2f9818d2ed9
-      internalID: 21300006
+      spriteID: 4261c3f5a8829abf0800000000000000
+      internalID: -312674124357167580
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Warrior_WalkEW_04
+      name: Characters02_Animation_ver_6
       rect:
         serializedVersion: 2
-        x: 256
+        x: 392
+        y: 447
+        width: 43
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a43e3d599b9d7d030800000000000000
+      internalID: 3519521024919200586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Characters02_Animation_ver_7
+      rect:
+        serializedVersion: 2
+        x: 456
         y: 448
-        width: 64
+        width: 43
         height: 64
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8a40f93cef5f545bcb6802d609d0ad8c
-      internalID: 21300008
+      spriteID: 4bc5373b272dcc370800000000000000
+      internalID: 8344275599689473204
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Warrior_WalkEW_05
+      name: Characters02_Animation_ver_8
       rect:
         serializedVersion: 2
-        x: 320
-        y: 448
-        width: 64
-        height: 64
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 3
+        y: 387
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d62094a891f5d4845b6e51f8a4fadf41
-      internalID: 21300010
+      spriteID: a9c6ed96b9480f8a0800000000000000
+      internalID: -6273368477896119142
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Warrior_WalkEW_06
+      name: Characters02_Animation_ver_9
       rect:
         serializedVersion: 2
-        x: 384
-        y: 448
-        width: 64
-        height: 64
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 67
+        y: 386
+        width: 60
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 52cacc3b41493483aba4a5e89e7a4fc0
-      internalID: 21300012
+      spriteID: 7048708997547c590800000000000000
+      internalID: -7654072653148879865
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Warrior_WalkEW_07
+      name: Characters02_Animation_ver_10
       rect:
         serializedVersion: 2
-        x: 448
-        y: 448
-        width: 64
-        height: 64
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7ceb1f0987a5f491497bc7c6da33b51b
-      internalID: 21300014
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Warrior_WalkS_00
-      rect:
-        serializedVersion: 2
-        x: 0
+        x: 131
         y: 384
-        width: 64
-        height: 64
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        width: 58
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a91b07347ec3b4465ba2b8a4a7837e94
-      internalID: 21300016
+      spriteID: 3b4b6ee9c3f48fb90800000000000000
+      internalID: -7207924081823927117
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Warrior_WalkS_01
+      name: Characters02_Animation_ver_11
       rect:
         serializedVersion: 2
-        x: 64
+        x: 258
+        y: 388
+        width: 58
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04927a1fe35e14b70800000000000000
+      internalID: 8881631998656325952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Characters02_Animation_ver_12
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 386
+        width: 59
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6098693ac4517ff00800000000000000
+      internalID: 1150411648722700550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Characters02_Animation_ver_13
+      rect:
+        serializedVersion: 2
+        x: 387
         y: 384
-        width: 64
-        height: 64
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        width: 58
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 94249836334594fdd84861403733fcf6
-      internalID: 21300018
+      spriteID: 25f670bd5527d3620800000000000000
+      internalID: 2755484260093095762
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Warrior_WalkS_02
+      name: Characters02_Animation_ver_14
       rect:
         serializedVersion: 2
-        x: 128
+        x: 451
         y: 384
-        width: 64
-        height: 64
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        width: 58
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 572797985d76d4bb18abf60fe2f19747
-      internalID: 21300020
+      spriteID: 0e826f0be31bdb1f0800000000000000
+      internalID: -1027470257155594016
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Warrior_WalkS_03
+      name: Characters02_Animation_ver_15
       rect:
         serializedVersion: 2
-        x: 192
-        y: 384
-        width: 64
-        height: 64
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 3
+        y: 322
+        width: 58
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d7f0443aa8f5f498f877b8f7462c8214
-      internalID: 21300022
+      spriteID: 89bb9741d8aa55f50800000000000000
+      internalID: 6869584329534192536
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Warrior_WalkS_04
+      name: Characters02_Animation_ver_16
       rect:
         serializedVersion: 2
-        x: 256
-        y: 384
-        width: 64
-        height: 64
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 67
+        y: 322
+        width: 59
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8d9b62ab4a1324ca6a26a12b3add59c4
-      internalID: 21300024
+      spriteID: a18c151384f13d890800000000000000
+      internalID: -7434564164933007334
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Warrior_WalkS_05
+      name: Characters02_Animation_ver_17
       rect:
         serializedVersion: 2
-        x: 320
-        y: 384
-        width: 64
-        height: 64
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: fcc11fb49815a4f31b7e0455980901a8
-      internalID: 21300026
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Warrior_WalkS_06
-      rect:
-        serializedVersion: 2
-        x: 384
-        y: 384
-        width: 64
-        height: 64
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ca428432e667a442e9f00a0ba37638d2
-      internalID: 21300028
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Warrior_WalkS_07
-      rect:
-        serializedVersion: 2
-        x: 448
-        y: 384
-        width: 64
-        height: 64
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 99e3dfeb15f8f43b3b4bcb4a1e109df5
-      internalID: 21300030
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Warrior_WalkN_00
-      rect:
-        serializedVersion: 2
-        x: 0
+        x: 132
         y: 320
-        width: 64
-        height: 64
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        width: 58
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5b71a80cb2b3a4a55999907e0f93af98
-      internalID: 21300032
+      spriteID: 67cf0a285d16bd600800000000000000
+      internalID: 494096153774718070
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Warrior_WalkN_01
+      name: Characters02_Animation_ver_18
       rect:
         serializedVersion: 2
-        x: 64
+        x: 196
         y: 320
-        width: 64
-        height: 64
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        width: 58
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d0030765a91d94a118fe2648d31bd011
-      internalID: 21300034
+      spriteID: 4cc6cff530c441ed0800000000000000
+      internalID: -2444245120376345404
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Warrior_WalkN_02
+      name: Characters02_Animation_ver_19
       rect:
         serializedVersion: 2
-        x: 128
+        x: 259
+        y: 322
+        width: 59
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd6dd57fdc8134750800000000000000
+      internalID: 6287896777636828895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Characters02_Animation_ver_20
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 322
+        width: 59
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bf7c990f335857e0800000000000000
+      internalID: -1776578522788364359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Characters02_Animation_ver_21
+      rect:
+        serializedVersion: 2
+        x: 386
         y: 320
-        width: 64
-        height: 64
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        width: 58
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4239cc4cbe4cd4d2ea102dd79fd18bbb
-      internalID: 21300036
+      spriteID: 176db8d234802e210800000000000000
+      internalID: 1360659122039281265
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Warrior_WalkN_03
+      name: Characters02_Animation_ver_22
       rect:
         serializedVersion: 2
-        x: 192
+        x: 450
         y: 320
-        width: 64
-        height: 64
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        width: 59
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 265379ac8e7924001b0a811721a84f95
-      internalID: 21300038
+      spriteID: 35e23c66d18892450800000000000000
+      internalID: 6064528033090580051
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Warrior_WalkN_04
+      name: Characters02_Animation_ver_23
       rect:
         serializedVersion: 2
-        x: 256
-        y: 320
-        width: 64
-        height: 64
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6aa60b94f88994c1a907304f02dfec2a
-      internalID: 21300040
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Warrior_WalkN_05
-      rect:
-        serializedVersion: 2
-        x: 320
-        y: 320
-        width: 64
-        height: 64
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ff2e11f465cc541a6b36da17c76894f9
-      internalID: 21300042
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Warrior_WalkN_06
-      rect:
-        serializedVersion: 2
-        x: 384
-        y: 320
-        width: 64
-        height: 64
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c2f3fb27eb57c4eec9a3a2049a07bb77
-      internalID: 21300044
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Warrior_WalkN_07
-      rect:
-        serializedVersion: 2
-        x: 448
-        y: 320
-        width: 64
-        height: 64
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3dc0b991984b248ef87e28423b322868
-      internalID: 21300046
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: _Warrior
-      rect:
-        serializedVersion: 2
-        x: 0
+        x: 4
         y: 256
-        width: 64
-        height: 64
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        width: 56
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4abc6c36f66c943c3a6d6d4d9435c7a7
-      internalID: 21300048
+      spriteID: e8c8a72fe409f82f0800000000000000
+      internalID: -968396726111400818
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Warrior_Idle_01
+      name: Characters02_Animation_ver_24
       rect:
         serializedVersion: 2
-        x: 64
+        x: 68
         y: 256
-        width: 64
-        height: 64
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        width: 56
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 29c1788ccd45c4921a59806180f45034
-      internalID: 21300050
+      spriteID: b2b6806d545dcde90800000000000000
+      internalID: -6999485224920257749
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Warrior_Idle_02
+      name: Characters02_Animation_ver_25
       rect:
         serializedVersion: 2
-        x: 128
+        x: 132
         y: 256
-        width: 64
+        width: 56
         height: 64
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bd2ebcd7488b949c384fe2f62ad7b576
-      internalID: 21300052
+      spriteID: 10187639b0e1cb4b0800000000000000
+      internalID: -5423426816194412287
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Warrior_Idle_03
+      name: Characters02_Animation_ver_26
       rect:
         serializedVersion: 2
-        x: 192
+        x: 196
         y: 256
-        width: 64
+        width: 56
         height: 64
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d041547a742894ea4b909c7155c1ffbc
-      internalID: 21300054
+      spriteID: bea1a5b01f4b4f4e0800000000000000
+      internalID: -1948733791374009621
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Warrior_Idle_04
+      name: Characters02_Animation_ver_27
       rect:
         serializedVersion: 2
-        x: 256
+        x: 260
         y: 256
-        width: 64
+        width: 57
         height: 64
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3d675d3a48ba74efd828f4042f919ede
-      internalID: 21300056
+      spriteID: 2e3d4a4cda6e515d0800000000000000
+      internalID: -3092311935117110302
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Warrior_Idle_05
+      name: Characters02_Animation_ver_28
       rect:
         serializedVersion: 2
-        x: 320
+        x: 324
         y: 256
-        width: 64
+        width: 57
         height: 64
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0636a633310ec40d4856f66390e82896
-      internalID: 21300058
+      spriteID: 8da022a454aff19c0800000000000000
+      internalID: -3954166772304573736
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Warrior_Idle_06
+      name: Characters02_Animation_ver_29
       rect:
         serializedVersion: 2
-        x: 384
+        x: 388
         y: 256
-        width: 64
+        width: 56
         height: 64
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e1c5f684be58044bc933354ff5c7c13b
-      internalID: 21300060
+      spriteID: b30e918fcf00ef080800000000000000
+      internalID: -9151876306276065221
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Warrior_Idle_07
+      name: Characters02_Animation_ver_30
       rect:
         serializedVersion: 2
-        x: 448
+        x: 452
         y: 256
-        width: 64
+        width: 56
         height: 64
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fd162b48cc5f842d78abad06b5408f84
-      internalID: 21300062
+      spriteID: 6a7a4bf5164b66270800000000000000
+      internalID: 8243474498258773926
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: _Villager01
+      name: Characters02_Animation_ver_31
       rect:
         serializedVersion: 2
-        x: 0
+        x: 10
         y: 192
-        width: 64
-        height: 64
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        width: 44
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4970262daa3054158bd25486421d4e37
-      internalID: 21300064
+      spriteID: 6c542caae5428a9f0800000000000000
+      internalID: -457075373167721018
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Villager01_Idle_01
+      name: Characters02_Animation_ver_32
       rect:
         serializedVersion: 2
-        x: 64
+        x: 74
         y: 192
-        width: 64
-        height: 64
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        width: 44
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9839bc7420f90417daf6d13efc193e5c
-      internalID: 21300066
+      spriteID: a0aeba4093f403050800000000000000
+      internalID: 5778205428226451978
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Villager01_Idle_02
+      name: Characters02_Animation_ver_33
       rect:
         serializedVersion: 2
-        x: 128
+        x: 138
         y: 192
-        width: 64
-        height: 64
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        width: 44
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 24fb7405588cd4343ba1eb0ce1d96453
-      internalID: 21300068
+      spriteID: 47e157de2159a3820800000000000000
+      internalID: 2898793218692161140
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Villager01_Idle_03
+      name: Characters02_Animation_ver_34
       rect:
         serializedVersion: 2
-        x: 192
+        x: 202
         y: 192
-        width: 64
-        height: 64
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        width: 45
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2310d82b2a6bc408bab62e7db48374b7
-      internalID: 21300070
+      spriteID: 0ac4897b79ae17780800000000000000
+      internalID: -8686904268879803232
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Villager01_Idle_04
+      name: Characters02_Animation_ver_35
       rect:
         serializedVersion: 2
-        x: 256
+        x: 266
         y: 192
-        width: 64
-        height: 64
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        width: 45
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 56a4ea8f285c84ee4b4c5e5951aa81fc
-      internalID: 21300072
+      spriteID: 97374e3fea2302650800000000000000
+      internalID: 6206016013514077049
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Villager01_Idle_05
+      name: Characters02_Animation_ver_36
       rect:
         serializedVersion: 2
-        x: 320
+        x: 330
         y: 192
-        width: 64
-        height: 64
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        width: 44
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 941b3f52b28d14716a53203076d01bfb
-      internalID: 21300074
+      spriteID: e80d1644bae007900800000000000000
+      internalID: 680059672482402446
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Villager01_Idle_06
+      name: Characters02_Animation_ver_37
       rect:
         serializedVersion: 2
-        x: 384
+        x: 394
         y: 192
-        width: 64
-        height: 64
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        width: 44
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b28d6c0dae6044ff786f3b103f98c55e
-      internalID: 21300076
+      spriteID: db70fbaa773b7c020800000000000000
+      internalID: 2362053856126240701
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Villager01_Idle_07
+      name: Characters02_Animation_ver_38
       rect:
         serializedVersion: 2
-        x: 448
+        x: 458
         y: 192
-        width: 64
-        height: 64
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        width: 44
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 94a2235c63a5b492caf9c1e207fe2de0
-      internalID: 21300078
+      spriteID: 037e02d460aab6ca0800000000000000
+      internalID: -6022533132637378768
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: _Villager02
+      name: Characters02_Animation_ver_39
       rect:
         serializedVersion: 2
-        x: 0
+        x: 13
         y: 128
-        width: 64
-        height: 64
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        width: 39
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c50b5d017120744d4bc07f502bf2b0e7
-      internalID: 21300080
+      spriteID: a166abdfc55a245b0800000000000000
+      internalID: -5385560385569266150
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Villager02_Idle_01
+      name: Characters02_Animation_ver_40
       rect:
         serializedVersion: 2
-        x: 64
+        x: 77
         y: 128
-        width: 64
-        height: 64
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        width: 39
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d7e7bdcaf84a94077a7433c88ab13ca7
-      internalID: 21300082
+      spriteID: f592454956b154e40800000000000000
+      internalID: 5639944231445604703
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Villager02_Idle_02
+      name: Characters02_Animation_ver_41
       rect:
         serializedVersion: 2
-        x: 128
+        x: 141
         y: 128
-        width: 64
-        height: 64
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        width: 39
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 26954f40b9df543e394d6746741fae36
-      internalID: 21300084
+      spriteID: 8c43b47935c2a5c40800000000000000
+      internalID: 5501758632318678216
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Villager02_Idle_03
+      name: Characters02_Animation_ver_42
       rect:
         serializedVersion: 2
-        x: 192
+        x: 205
         y: 128
-        width: 64
-        height: 64
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        width: 39
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b1c9742296ba3451884bf187c1cce472
-      internalID: 21300086
+      spriteID: c8ca8b61c362f49d0800000000000000
+      internalID: -2787967604797952884
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Villager02_Idle_04
+      name: Characters02_Animation_ver_43
       rect:
         serializedVersion: 2
-        x: 256
+        x: 269
         y: 128
-        width: 64
-        height: 64
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        width: 40
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 13888406067de489fa53a1c9e594dbc8
-      internalID: 21300088
+      spriteID: f5ee5350cb6fbea80800000000000000
+      internalID: -8436378189546787233
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Villager02_Idle_05
+      name: Characters02_Animation_ver_44
       rect:
         serializedVersion: 2
-        x: 320
+        x: 333
         y: 128
-        width: 64
-        height: 64
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        width: 40
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c260805d4c367447cac18f00b1b1e68e
-      internalID: 21300090
+      spriteID: e8464f735d07439d0800000000000000
+      internalID: -2795485407621127026
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Villager02_Idle_06
+      name: Characters02_Animation_ver_45
       rect:
         serializedVersion: 2
-        x: 384
+        x: 397
         y: 128
-        width: 64
-        height: 64
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        width: 39
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5966071bdaef140c4ac7bde01af21fcb
-      internalID: 21300092
+      spriteID: db4e30ec6f248dfa0800000000000000
+      internalID: -5775792894316911427
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Villager02_Idle_07
+      name: Characters02_Animation_ver_46
       rect:
         serializedVersion: 2
-        x: 448
+        x: 461
         y: 128
-        width: 64
-        height: 64
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        width: 39
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7eee84ea7cabe4639899b284b5e4cf57
-      internalID: 21300094
+      spriteID: c38ec618bb6b61c90800000000000000
+      internalID: -7199366037858621380
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: _Chicken
+      name: Characters02_Animation_ver_47
       rect:
         serializedVersion: 2
-        x: 0
+        x: 408
         y: 64
-        width: 64
-        height: 64
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7e72edb33f7ae476198ebdc2835a9803
-      internalID: 21300096
+      spriteID: 65fe01ea9515f9020800000000000000
+      internalID: 2350686976124972886
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Chicken_Idle_01
+      name: Characters02_Animation_ver_48
       rect:
         serializedVersion: 2
-        x: 64
+        x: 472
         y: 64
-        width: 64
-        height: 64
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 40e1ddf054e1d4dfcaf772788c22ef8a
-      internalID: 21300098
+      spriteID: 9acedf64973fb1cd0800000000000000
+      internalID: -2586205858786579287
       vertices: []
       indices: 
       edges: []
@@ -1332,7 +1269,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 3a384a9fdea67184cb6718dbb801eca4
+    spriteID: 5e97eb03825dee720800000000000000
     internalID: 0
     vertices: []
     indices: 

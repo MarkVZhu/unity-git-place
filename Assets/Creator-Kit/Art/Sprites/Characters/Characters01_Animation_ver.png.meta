@@ -1,394 +1,199 @@
 fileFormatVersion: 2
-guid: f22540e8ea335034b92c27795aa254c6
+guid: ce235b79649dcbb42bb6f190cc38eef0
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 21300000
-    second: _Thief
+      213: 5133740253981154090
+    second: Characters01_Animation_ver_0
   - first:
-      213: 21300002
-    second: Thief_Idle_01
+      213: -3369558260120732547
+    second: Characters01_Animation_ver_1
   - first:
-      213: 21300004
-    second: Thief_Idle_02
+      213: -4566747515373213243
+    second: Characters01_Animation_ver_2
   - first:
-      213: 21300006
-    second: Thief_Idle_03
+      213: -3172175117037920980
+    second: Characters01_Animation_ver_3
   - first:
-      213: 21300008
-    second: Thief_Idle_04
+      213: -181922884350695770
+    second: Characters01_Animation_ver_4
   - first:
-      213: 21300010
-    second: Thief_Idle_05
+      213: -2503660009583128236
+    second: Characters01_Animation_ver_5
   - first:
-      213: 21300012
-    second: Thief_Idle_06
+      213: 4196309208328941176
+    second: Characters01_Animation_ver_6
   - first:
-      213: 21300014
-    second: Thief_Idle_07
+      213: 3843947869212389741
+    second: Characters01_Animation_ver_7
   - first:
-      213: 21300016
-    second: Thief_WalkS_00
+      213: 4379033519082514176
+    second: Characters01_Animation_ver_8
   - first:
-      213: 21300018
-    second: Thief_WalkS_01
+      213: -1138260815049114659
+    second: Characters01_Animation_ver_9
   - first:
-      213: 21300020
-    second: Thief_WalkS_02
+      213: 9216579254878974850
+    second: Characters01_Animation_ver_10
   - first:
-      213: 21300022
-    second: Thief_WalkS_03
+      213: -7053726707747971581
+    second: Characters01_Animation_ver_11
   - first:
-      213: 21300024
-    second: Thief_WalkS_04
+      213: -6603460061039611819
+    second: Characters01_Animation_ver_12
   - first:
-      213: 21300026
-    second: Thief_WalkS_05
+      213: -4159652581636096866
+    second: Characters01_Animation_ver_13
   - first:
-      213: 21300028
-    second: Thief_WalkS_06
+      213: -4799055542783537553
+    second: Characters01_Animation_ver_14
   - first:
-      213: 21300030
-    second: Thief_WalkS_07
+      213: 2977330365303420352
+    second: Characters01_Animation_ver_15
   - first:
-      213: 21300032
-    second: Thief_WalkEW_00
+      213: -3317310624974501184
+    second: Characters01_Animation_ver_16
   - first:
-      213: 21300034
-    second: Thief_WalkEW_01
+      213: 8516350824065032609
+    second: Characters01_Animation_ver_17
   - first:
-      213: 21300036
-    second: Thief_WalkEW_02
+      213: 2190797544412077290
+    second: Characters01_Animation_ver_18
   - first:
-      213: 21300038
-    second: Thief_WalkEW_03
+      213: 1918264323028178441
+    second: Characters01_Animation_ver_19
   - first:
-      213: 21300040
-    second: Thief_WalkEW_04
+      213: 3402373531967622631
+    second: Characters01_Animation_ver_20
   - first:
-      213: 21300042
-    second: Thief_WalkEW_05
+      213: 8496662601073078456
+    second: Characters01_Animation_ver_21
   - first:
-      213: 21300044
-    second: Thief_WalkEW_06
+      213: 4658049524432089372
+    second: Characters01_Animation_ver_22
   - first:
-      213: 21300046
-    second: Thief_WalkEW_07
+      213: 6642324678361129869
+    second: Characters01_Animation_ver_23
   - first:
-      213: 21300048
-    second: Thief_WalkN_00
+      213: -5985155285735172405
+    second: Characters01_Animation_ver_24
   - first:
-      213: 21300050
-    second: Thief_WalkN_01
+      213: 2920202910206930524
+    second: Characters01_Animation_ver_25
   - first:
-      213: 21300052
-    second: Thief_WalkN_02
+      213: -2372769956436580080
+    second: Characters01_Animation_ver_26
   - first:
-      213: 21300054
-    second: Thief_WalkN_03
+      213: 4746284994815049740
+    second: Characters01_Animation_ver_27
   - first:
-      213: 21300056
-    second: Thief_WalkN_04
+      213: 6337648173324793903
+    second: Characters01_Animation_ver_28
   - first:
-      213: 21300058
-    second: Thief_WalkN_05
+      213: 4932458641801574544
+    second: Characters01_Animation_ver_29
   - first:
-      213: 21300060
-    second: Thief_WalkN_06
+      213: -3377510234790380746
+    second: Characters01_Animation_ver_30
   - first:
-      213: 21300062
-    second: Thief_WalkN_07
+      213: 5756683103724000969
+    second: Characters01_Animation_ver_31
   - first:
-      213: 21300064
-    second: Archer_WalkEW_00
+      213: -5831684550778032713
+    second: Characters01_Animation_ver_32
   - first:
-      213: 21300066
-    second: Archer_WalkEW_01
+      213: -5779388209306000321
+    second: Characters01_Animation_ver_33
   - first:
-      213: 21300068
-    second: Archer_WalkEW_02
+      213: 1432174724696656928
+    second: Characters01_Animation_ver_34
   - first:
-      213: 21300070
-    second: Archer_WalkEW_03
+      213: -5515569828982705757
+    second: Characters01_Animation_ver_35
   - first:
-      213: 21300072
-    second: Archer_WalkEW_04
+      213: -7239719622961632602
+    second: Characters01_Animation_ver_36
   - first:
-      213: 21300074
-    second: Archer_WalkEW_05
+      213: -4757681044921759483
+    second: Characters01_Animation_ver_37
   - first:
-      213: 21300076
-    second: Archer_WalkEW_06
+      213: 3646173533704865407
+    second: Characters01_Animation_ver_38
   - first:
-      213: 21300078
-    second: Archer_WalkEW_07
+      213: -515491129407900606
+    second: Characters01_Animation_ver_39
   - first:
-      213: 21300080
-    second: Archer_WalkS_00
+      213: -1525176563390156591
+    second: Characters01_Animation_ver_40
   - first:
-      213: 21300082
-    second: Archer_WalkS_01
+      213: -8551967268072843257
+    second: Characters01_Animation_ver_41
   - first:
-      213: 21300084
-    second: Archer_WalkS_02
+      213: -7719457267803798541
+    second: Characters01_Animation_ver_42
   - first:
-      213: 21300086
-    second: Archer_WalkS_03
+      213: -3630895471087181406
+    second: Characters01_Animation_ver_43
   - first:
-      213: 21300088
-    second: Archer_WalkS_04
+      213: 5154160267669799214
+    second: Characters01_Animation_ver_44
   - first:
-      213: 21300090
-    second: Archer_WalkS_05
+      213: -2399281096252415852
+    second: Characters01_Animation_ver_45
   - first:
-      213: 21300092
-    second: Archer_WalkS_06
+      213: -1377893452348016489
+    second: Characters01_Animation_ver_46
   - first:
-      213: 21300094
-    second: Archer_WalkS_07
+      213: -9000782388949709478
+    second: Characters01_Animation_ver_47
   - first:
-      213: 21300096
-    second: Archer_WalkN_00
+      213: 3712601726033746534
+    second: Characters01_Animation_ver_48
   - first:
-      213: 21300098
-    second: Archer_WalkN_01
+      213: 197465652116537950
+    second: Characters01_Animation_ver_49
   - first:
-      213: 21300100
-    second: Archer_WalkN_02
+      213: -2106828294233174048
+    second: Characters01_Animation_ver_50
   - first:
-      213: 21300102
-    second: Archer_WalkN_03
+      213: -267975357293387422
+    second: Characters01_Animation_ver_51
   - first:
-      213: 21300104
-    second: Archer_WalkN_04
+      213: 4086102337869439800
+    second: Characters01_Animation_ver_52
   - first:
-      213: 21300106
-    second: Archer_WalkN_05
+      213: 8903529208610215752
+    second: Characters01_Animation_ver_53
   - first:
-      213: 21300108
-    second: Archer_WalkN_06
+      213: 9015921775075959688
+    second: Characters01_Animation_ver_54
   - first:
-      213: 21300110
-    second: Archer_WalkN_07
+      213: -4031714310254575719
+    second: Characters01_Animation_ver_55
   - first:
-      213: 21300112
-    second: _Archer
+      213: -3811692892796955610
+    second: Characters01_Animation_ver_56
   - first:
-      213: 21300114
-    second: Archer_Idle_01
+      213: -7372907680046417926
+    second: Characters01_Animation_ver_57
   - first:
-      213: 21300116
-    second: ThiefAndArcher_AnimationSheet_0
+      213: 577935798400679179
+    second: Characters01_Animation_ver_58
   - first:
-      213: 21300118
-    second: ThiefAndArcher_AnimationSheet_1
+      213: -4235806022203000489
+    second: Characters01_Animation_ver_59
   - first:
-      213: 21300120
-    second: ThiefAndArcher_AnimationSheet_2
+      213: -440321304361667808
+    second: Characters01_Animation_ver_60
   - first:
-      213: 21300122
-    second: ThiefAndArcher_AnimationSheet_3
+      213: 4994984858903365901
+    second: Characters01_Animation_ver_61
   - first:
-      213: 21300124
-    second: ThiefAndArcher_AnimationSheet_4
+      213: 7155367258515548565
+    second: Characters01_Animation_ver_62
   - first:
-      213: 21300126
-    second: ThiefAndArcher_AnimationSheet_5
-  - first:
-      213: 21300128
-    second: ThiefAndArcher_AnimationSheet_6
-  - first:
-      213: 21300130
-    second: ThiefAndArcher_AnimationSheet_7
-  - first:
-      213: 21300132
-    second: ThiefAndArcher_AnimationSheet_8
-  - first:
-      213: 21300134
-    second: ThiefAndArcher_AnimationSheet_9
-  - first:
-      213: 21300136
-    second: ThiefAndArcher_AnimationSheet_10
-  - first:
-      213: 21300138
-    second: ThiefAndArcher_AnimationSheet_11
-  - first:
-      213: 21300140
-    second: ThiefAndArcher_AnimationSheet_12
-  - first:
-      213: 21300142
-    second: ThiefAndArcher_AnimationSheet_13
-  - first:
-      213: 21300144
-    second: ThiefAndArcher_AnimationSheet_14
-  - first:
-      213: 21300146
-    second: ThiefAndArcher_AnimationSheet_15
-  - first:
-      213: 21300148
-    second: ThiefAndArcher_AnimationSheet_16
-  - first:
-      213: 21300150
-    second: ThiefAndArcher_AnimationSheet_17
-  - first:
-      213: 21300152
-    second: ThiefAndArcher_AnimationSheet_18
-  - first:
-      213: 21300154
-    second: ThiefAndArcher_AnimationSheet_19
-  - first:
-      213: 21300156
-    second: ThiefAndArcher_AnimationSheet_20
-  - first:
-      213: 21300158
-    second: ThiefAndArcher_AnimationSheet_21
-  - first:
-      213: 21300160
-    second: ThiefAndArcher_AnimationSheet_22
-  - first:
-      213: 21300162
-    second: ThiefAndArcher_AnimationSheet_23
-  - first:
-      213: 21300164
-    second: ThiefAndArcher_AnimationSheet_24
-  - first:
-      213: 21300166
-    second: ThiefAndArcher_AnimationSheet_25
-  - first:
-      213: 21300168
-    second: ThiefAndArcher_AnimationSheet_26
-  - first:
-      213: 21300170
-    second: ThiefAndArcher_AnimationSheet_27
-  - first:
-      213: 21300172
-    second: ThiefAndArcher_AnimationSheet_28
-  - first:
-      213: 21300174
-    second: ThiefAndArcher_AnimationSheet_29
-  - first:
-      213: 21300176
-    second: ThiefAndArcher_AnimationSheet_30
-  - first:
-      213: 21300178
-    second: ThiefAndArcher_AnimationSheet_31
-  - first:
-      213: 21300180
-    second: ThiefAndArcher_AnimationSheet_32
-  - first:
-      213: 21300182
-    second: ThiefAndArcher_AnimationSheet_33
-  - first:
-      213: 21300184
-    second: ThiefAndArcher_AnimationSheet_34
-  - first:
-      213: 21300186
-    second: ThiefAndArcher_AnimationSheet_35
-  - first:
-      213: 21300188
-    second: ThiefAndArcher_AnimationSheet_36
-  - first:
-      213: 21300190
-    second: ThiefAndArcher_AnimationSheet_37
-  - first:
-      213: 21300192
-    second: ThiefAndArcher_AnimationSheet_38
-  - first:
-      213: 21300194
-    second: ThiefAndArcher_AnimationSheet_39
-  - first:
-      213: 21300196
-    second: ThiefAndArcher_AnimationSheet_40
-  - first:
-      213: 21300198
-    second: ThiefAndArcher_AnimationSheet_41
-  - first:
-      213: 21300200
-    second: ThiefAndArcher_AnimationSheet_42
-  - first:
-      213: 21300202
-    second: ThiefAndArcher_AnimationSheet_43
-  - first:
-      213: 21300204
-    second: ThiefAndArcher_AnimationSheet_44
-  - first:
-      213: 21300206
-    second: ThiefAndArcher_AnimationSheet_45
-  - first:
-      213: 21300208
-    second: ThiefAndArcher_AnimationSheet_46
-  - first:
-      213: 21300210
-    second: ThiefAndArcher_AnimationSheet_47
-  - first:
-      213: 21300212
-    second: ThiefAndArcher_AnimationSheet_48
-  - first:
-      213: 21300214
-    second: ThiefAndArcher_AnimationSheet_49
-  - first:
-      213: 21300216
-    second: ThiefAndArcher_AnimationSheet_50
-  - first:
-      213: 21300218
-    second: ThiefAndArcher_AnimationSheet_51
-  - first:
-      213: 21300220
-    second: ThiefAndArcher_AnimationSheet_52
-  - first:
-      213: 21300222
-    second: ThiefAndArcher_AnimationSheet_53
-  - first:
-      213: 21300224
-    second: ThiefAndArcher_AnimationSheet_54
-  - first:
-      213: 21300226
-    second: ThiefAndArcher_AnimationSheet_55
-  - first:
-      213: 21300228
-    second: ThiefAndArcher_AnimationSheet_56
-  - first:
-      213: 21300230
-    second: ThiefAndArcher_AnimationSheet_57
-  - first:
-      213: 21300232
-    second: ThiefAndArcher_AnimationSheet_58
-  - first:
-      213: 21300234
-    second: ThiefAndArcher_AnimationSheet_59
-  - first:
-      213: 21300236
-    second: ThiefAndArcher_AnimationSheet_60
-  - first:
-      213: 21300238
-    second: ThiefAndArcher_AnimationSheet_61
-  - first:
-      213: 21300240
-    second: ThiefAndArcher_AnimationSheet_62
-  - first:
-      213: 21300242
-    second: ThiefAndArcher_AnimationSheet_63
-  - first:
-      213: 21300244
-    second: Archer_Idle_02
-  - first:
-      213: 21300246
-    second: Archer_Idle_03
-  - first:
-      213: 21300248
-    second: Archer_Idle_04
-  - first:
-      213: 21300250
-    second: Archer_Idle_05
-  - first:
-      213: 21300252
-    second: Archer_Idle_06
-  - first:
-      213: 21300254
-    second: Archer_Idle_07
-  - first:
-      41386430: 2186277476908879412
-    second: ImportLogs
+      213: -5943347817006310600
+    second: Characters01_Animation_ver_63
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -419,18 +224,18 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 0
+    filterMode: 1
     aniso: 1
     mipBias: 0
     wrapU: 1
     wrapV: 1
-    wrapW: 0
+    wrapW: 1
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
   spriteMode: 2
   spriteExtrude: 1
-  spriteMeshType: 0
+  spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 48
@@ -448,14 +253,14 @@ TextureImporter:
   compressionQualitySet: 0
   textureFormatSet: 0
   ignorePngGamma: 0
-  applyGammaDecoding: 1
+  applyGammaDecoding: 0
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 512
+    maxTextureSize: 2048
     resizeAlgorithm: 0
-    textureFormat: 4
-    textureCompression: 0
+    textureFormat: -1
+    textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -464,1395 +269,1359 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: Standalone
-    maxTextureSize: 512
+    maxTextureSize: 2048
     resizeAlgorithm: 0
-    textureFormat: 4
-    textureCompression: 0
+    textureFormat: -1
+    textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 3
-    buildTarget: Android
-    maxTextureSize: 512
-    resizeAlgorithm: 0
-    textureFormat: 4
-    textureCompression: 0
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: WebGL
-    maxTextureSize: 512
-    resizeAlgorithm: 0
-    textureFormat: 4
-    textureCompression: 0
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 3
-    buildTarget: iPhone
-    maxTextureSize: 512
-    resizeAlgorithm: 0
-    textureFormat: 4
-    textureCompression: 0
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: _Thief
+      name: Characters01_Animation_ver_0
       rect:
         serializedVersion: 2
         x: 0
         y: 448
         width: 64
         height: 64
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fe2ba23e3dd3a4f7d9b607c5db334b68
-      internalID: 21300000
+      spriteID: a2b9bafaf85be3740800000000000000
+      internalID: 5133740253981154090
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Thief_Idle_01
+      name: Characters01_Animation_ver_1
       rect:
         serializedVersion: 2
         x: 64
         y: 448
         width: 64
         height: 64
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e86ef0b3e8b2148708a0862d9f624fef
-      internalID: 21300002
+      spriteID: d7c35877d9cec31d0800000000000000
+      internalID: -3369558260120732547
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Thief_Idle_02
+      name: Characters01_Animation_ver_2
       rect:
         serializedVersion: 2
         x: 128
         y: 448
         width: 64
         height: 64
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d9b2ca9d1b3334ca19b9bd5b21966b0c
-      internalID: 21300004
+      spriteID: 5c928479457af90c0800000000000000
+      internalID: -4566747515373213243
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Thief_Idle_03
+      name: Characters01_Animation_ver_3
       rect:
         serializedVersion: 2
         x: 192
         y: 448
         width: 64
         height: 64
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a76b246295f8e4c728ec498624b624d0
-      internalID: 21300006
+      spriteID: c2d1f97b98b2af3d0800000000000000
+      internalID: -3172175117037920980
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Thief_Idle_04
+      name: Characters01_Animation_ver_4
       rect:
         serializedVersion: 2
         x: 256
         y: 448
         width: 64
         height: 64
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: dddda774d12d244bbb60d89e087d6507
-      internalID: 21300008
+      spriteID: 6a623cdb91ea97df0800000000000000
+      internalID: -181922884350695770
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Thief_Idle_05
+      name: Characters01_Animation_ver_5
       rect:
         serializedVersion: 2
         x: 320
         y: 448
         width: 64
         height: 64
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e00d48fcf44904ff39368ead68fec25f
-      internalID: 21300010
+      spriteID: 451527a7c76314dd0800000000000000
+      internalID: -2503660009583128236
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Thief_Idle_06
+      name: Characters01_Animation_ver_6
       rect:
         serializedVersion: 2
         x: 384
         y: 448
         width: 64
         height: 64
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 531954e359f9e44068393a4cd8f531db
-      internalID: 21300012
+      spriteID: 87ea522fdf84c3a30800000000000000
+      internalID: 4196309208328941176
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Thief_Idle_07
+      name: Characters01_Animation_ver_7
       rect:
         serializedVersion: 2
         x: 448
         y: 448
         width: 64
         height: 64
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f1360b9d2c2c84f06b9e2f2bb84981ae
-      internalID: 21300014
+      spriteID: d61368f8832785530800000000000000
+      internalID: 3843947869212389741
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Thief_WalkS_00
+      name: Characters01_Animation_ver_8
       rect:
         serializedVersion: 2
         x: 0
         y: 384
         width: 64
         height: 64
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c03212c25571f49f18540809ed385fa7
-      internalID: 21300016
+      spriteID: 0072174d8c375cc30800000000000000
+      internalID: 4379033519082514176
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Thief_WalkS_01
+      name: Characters01_Animation_ver_9
       rect:
         serializedVersion: 2
         x: 64
         y: 384
         width: 64
         height: 64
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 73368e42b786f47d79e4d07a02696402
-      internalID: 21300018
+      spriteID: ddb3049c1d51430f0800000000000000
+      internalID: -1138260815049114659
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Thief_WalkS_02
+      name: Characters01_Animation_ver_10
       rect:
         serializedVersion: 2
         x: 128
         y: 384
         width: 64
         height: 64
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f6420b19392e443e489ba4f6e0b100a3
-      internalID: 21300020
+      spriteID: 283bb43300ed7ef70800000000000000
+      internalID: 9216579254878974850
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Thief_WalkS_03
+      name: Characters01_Animation_ver_11
       rect:
         serializedVersion: 2
         x: 192
         y: 384
         width: 64
         height: 64
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c9d3c64d5dbd8401587641880d37e85b
-      internalID: 21300022
+      spriteID: 30e1ff97ee02c1e90800000000000000
+      internalID: -7053726707747971581
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Thief_WalkS_04
+      name: Characters01_Animation_ver_12
       rect:
         serializedVersion: 2
         x: 256
         y: 384
         width: 64
         height: 64
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 886a657d542074510ade09030736fbbc
-      internalID: 21300024
+      spriteID: 5503145af0ccb54a0800000000000000
+      internalID: -6603460061039611819
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Thief_WalkS_05
+      name: Characters01_Animation_ver_13
       rect:
         serializedVersion: 2
         x: 320
         y: 384
         width: 64
         height: 64
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6a47b2c5ba0bd423fbbf897e72e3439e
-      internalID: 21300026
+      spriteID: e9c3b8a0402f546c0800000000000000
+      internalID: -4159652581636096866
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Thief_WalkS_06
+      name: Characters01_Animation_ver_14
       rect:
         serializedVersion: 2
         x: 384
         y: 384
         width: 64
         height: 64
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 39d5ff2684aef4a38a0056d55ce86e5c
-      internalID: 21300028
+      spriteID: f6e840b0964566db0800000000000000
+      internalID: -4799055542783537553
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Thief_WalkS_07
+      name: Characters01_Animation_ver_15
       rect:
         serializedVersion: 2
         x: 448
         y: 384
         width: 64
         height: 64
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5553079fdea1f4ebdb4f5dc20746f8f1
-      internalID: 21300030
+      spriteID: 0c5f4e2513a915920800000000000000
+      internalID: 2977330365303420352
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Thief_WalkEW_00
+      name: Characters01_Animation_ver_16
       rect:
         serializedVersion: 2
         x: 0
         y: 320
         width: 64
         height: 64
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1356cc8862a824cefa23512e9eca2238
-      internalID: 21300032
+      spriteID: 0ca04ccff8b86f1d0800000000000000
+      internalID: -3317310624974501184
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Thief_WalkEW_01
+      name: Characters01_Animation_ver_17
       rect:
         serializedVersion: 2
         x: 64
         y: 320
         width: 64
         height: 64
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a9cc09d43e5b64254acb9105059d43dc
-      internalID: 21300034
+      spriteID: 1a16003f3f7203670800000000000000
+      internalID: 8516350824065032609
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Thief_WalkEW_02
+      name: Characters01_Animation_ver_18
       rect:
         serializedVersion: 2
         x: 128
         y: 320
         width: 64
         height: 64
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 213402f67c67f47ff9485500c92d3671
-      internalID: 21300036
+      spriteID: aecda7162c6476e10800000000000000
+      internalID: 2190797544412077290
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Thief_WalkEW_03
+      name: Characters01_Animation_ver_19
       rect:
         serializedVersion: 2
         x: 192
         y: 320
         width: 64
         height: 64
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fd6642fcb75ed4fdb968680a6a727146
-      internalID: 21300038
+      spriteID: 90656670d3b0f9a10800000000000000
+      internalID: 1918264323028178441
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Thief_WalkEW_04
+      name: Characters01_Animation_ver_20
       rect:
         serializedVersion: 2
         x: 256
         y: 320
         width: 64
         height: 64
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d31cdcfeee54546eb9724d4f9feaf7b5
-      internalID: 21300040
+      spriteID: 7ed0f1663b8a73f20800000000000000
+      internalID: 3402373531967622631
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Thief_WalkEW_05
+      name: Characters01_Animation_ver_21
       rect:
         serializedVersion: 2
         x: 320
         y: 320
         width: 64
         height: 64
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8f75de9f1daed4870bb501524b0ab1fc
-      internalID: 21300042
+      spriteID: 8b0be415e953ae570800000000000000
+      internalID: 8496662601073078456
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Thief_WalkEW_06
+      name: Characters01_Animation_ver_22
       rect:
         serializedVersion: 2
         x: 384
         y: 320
         width: 64
         height: 64
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4835940ae95a0406389eda9182adcb5f
-      internalID: 21300044
+      spriteID: c11b3f1fc57b4a040800000000000000
+      internalID: 4658049524432089372
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Thief_WalkEW_07
+      name: Characters01_Animation_ver_23
       rect:
         serializedVersion: 2
         x: 448
         y: 320
         width: 64
         height: 64
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 729bfd327889e46779ffd3c06be08081
-      internalID: 21300046
+      spriteID: d83a6883a174e2c50800000000000000
+      internalID: 6642324678361129869
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Thief_WalkN_00
+      name: Characters01_Animation_ver_24
       rect:
         serializedVersion: 2
         x: 0
         y: 256
         width: 64
         height: 64
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: aca538e765c1241cb9b97d5e2614754b
-      internalID: 21300048
+      spriteID: bc614347af470fca0800000000000000
+      internalID: -5985155285735172405
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Thief_WalkN_01
+      name: Characters01_Animation_ver_25
       rect:
         serializedVersion: 2
         x: 64
         y: 256
         width: 64
         height: 64
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: eb7f01ea807eb4398af51b75c33fdae6
-      internalID: 21300050
+      spriteID: c5e22fe2315a68820800000000000000
+      internalID: 2920202910206930524
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Thief_WalkN_02
+      name: Characters01_Animation_ver_26
       rect:
         serializedVersion: 2
         x: 128
         y: 256
         width: 64
         height: 64
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a42156488e02047dc97e8e1d330d352d
-      internalID: 21300052
+      spriteID: 019e0eccb4a321fd0800000000000000
+      internalID: -2372769956436580080
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Thief_WalkN_03
+      name: Characters01_Animation_ver_27
       rect:
         serializedVersion: 2
         x: 192
         y: 256
         width: 64
         height: 64
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9c5891ec1fe7748d2bf80a9b97168b72
-      internalID: 21300054
+      spriteID: c00c7be4e013ed140800000000000000
+      internalID: 4746284994815049740
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Thief_WalkN_04
+      name: Characters01_Animation_ver_28
       rect:
         serializedVersion: 2
         x: 256
         y: 256
         width: 64
         height: 64
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 19175d5a4750c44b5939abe0a272d11d
-      internalID: 21300056
+      spriteID: f287d627f69d3f750800000000000000
+      internalID: 6337648173324793903
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Thief_WalkN_05
+      name: Characters01_Animation_ver_29
       rect:
         serializedVersion: 2
         x: 320
         y: 256
         width: 64
         height: 64
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9547db5f69c844e46b215a26450da09a
-      internalID: 21300058
+      spriteID: 09873ed500d937440800000000000000
+      internalID: 4932458641801574544
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Thief_WalkN_06
+      name: Characters01_Animation_ver_30
       rect:
         serializedVersion: 2
         x: 384
         y: 256
         width: 64
         height: 64
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 84ab14dca2ab5420e92f3e754f124734
-      internalID: 21300060
+      spriteID: 63bb216165ca021d0800000000000000
+      internalID: -3377510234790380746
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Thief_WalkN_07
+      name: Characters01_Animation_ver_31
       rect:
         serializedVersion: 2
         x: 448
         y: 256
         width: 64
         height: 64
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f84ca052a3d6844968a9389ef3acaee6
-      internalID: 21300062
+      spriteID: 9c656f958c8d3ef40800000000000000
+      internalID: 5756683103724000969
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Archer_WalkEW_00
+      name: Characters01_Animation_ver_32
       rect:
         serializedVersion: 2
         x: 0
         y: 192
         width: 64
         height: 64
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 73211871bfb0945b395fdcc6eeeffccf
-      internalID: 21300064
+      spriteID: 7bdedb47cc1b11fa0800000000000000
+      internalID: -5831684550778032713
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Archer_WalkEW_01
+      name: Characters01_Animation_ver_33
       rect:
         serializedVersion: 2
         x: 64
         y: 192
         width: 64
         height: 64
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0dc65b02d35df4912a868898cdc98eb7
-      internalID: 21300066
+      spriteID: f342c3d4b0d7bcfa0800000000000000
+      internalID: -5779388209306000321
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Archer_WalkEW_02
+      name: Characters01_Animation_ver_34
       rect:
         serializedVersion: 2
         x: 128
         y: 192
         width: 64
         height: 64
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ebe66842511af4fefa3f91eb14555530
-      internalID: 21300068
+      spriteID: 02c46d9f25b10e310800000000000000
+      internalID: 1432174724696656928
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Archer_WalkEW_03
+      name: Characters01_Animation_ver_35
       rect:
         serializedVersion: 2
         x: 192
         y: 192
         width: 64
         height: 64
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9b624f51e89d04c9b9a66f442e806561
-      internalID: 21300070
+      spriteID: 3a1bf999672c473b0800000000000000
+      internalID: -5515569828982705757
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Archer_WalkEW_04
+      name: Characters01_Animation_ver_36
       rect:
         serializedVersion: 2
         x: 256
         y: 192
         width: 64
         height: 64
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8eb54b658c282466ba38dc141f56b96a
-      internalID: 21300072
+      spriteID: 6aa62ff4c59578b90800000000000000
+      internalID: -7239719622961632602
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Archer_WalkEW_05
+      name: Characters01_Animation_ver_37
       rect:
         serializedVersion: 2
         x: 320
         y: 192
         width: 64
         height: 64
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3701c12ab83e244ba8fc4fb7ccf98ea3
-      internalID: 21300074
+      spriteID: 50944d20c4259fdb0800000000000000
+      internalID: -4757681044921759483
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Archer_WalkEW_06
+      name: Characters01_Animation_ver_38
       rect:
         serializedVersion: 2
         x: 384
         y: 192
         width: 64
         height: 64
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 867165212f6c246448d7176d2979a5de
-      internalID: 21300076
+      spriteID: f76c8e9b28fc99230800000000000000
+      internalID: 3646173533704865407
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Archer_WalkEW_07
+      name: Characters01_Animation_ver_39
       rect:
         serializedVersion: 2
         x: 448
         y: 192
         width: 64
         height: 64
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 34ef2256397994930b99b621d6d8c8e4
-      internalID: 21300078
+      spriteID: 244f6ca8c8b98d8f0800000000000000
+      internalID: -515491129407900606
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Archer_WalkS_00
+      name: Characters01_Animation_ver_40
       rect:
         serializedVersion: 2
         x: 0
         y: 128
         width: 64
         height: 64
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 11012fd3c4c534ba09aff6b46aa1e7c9
-      internalID: 21300080
+      spriteID: 1d0f06f0ffb75dae0800000000000000
+      internalID: -1525176563390156591
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Archer_WalkS_01
+      name: Characters01_Animation_ver_41
       rect:
         serializedVersion: 2
         x: 64
         y: 128
         width: 64
         height: 64
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 068505c5688874ac4bfde34b16c3573a
-      internalID: 21300082
+      spriteID: 70810c7741f415980800000000000000
+      internalID: -8551967268072843257
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Archer_WalkS_02
+      name: Characters01_Animation_ver_42
       rect:
         serializedVersion: 2
         x: 128
         y: 128
         width: 64
         height: 64
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5ecb286c252db482cbf02af73cefdc88
-      internalID: 21300084
+      spriteID: 3f34fbda38afed490800000000000000
+      internalID: -7719457267803798541
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Archer_WalkS_03
+      name: Characters01_Animation_ver_43
       rect:
         serializedVersion: 2
         x: 192
         y: 128
         width: 64
         height: 64
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e08f640809a3b4a24905ae22bd6e456a
-      internalID: 21300086
+      spriteID: 2a1264d6ec77c9dc0800000000000000
+      internalID: -3630895471087181406
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Archer_WalkS_04
+      name: Characters01_Animation_ver_44
       rect:
         serializedVersion: 2
         x: 256
         y: 128
         width: 64
         height: 64
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ab8688303cd85428eb15f1dee7ada54a
-      internalID: 21300088
+      spriteID: e2104ed9471478740800000000000000
+      internalID: 5154160267669799214
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Archer_WalkS_05
+      name: Characters01_Animation_ver_45
       rect:
         serializedVersion: 2
         x: 320
         y: 128
         width: 64
         height: 64
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 733629964abcf40e4be3b76ad663df06
-      internalID: 21300090
+      spriteID: 490a09d0e8a04bed0800000000000000
+      internalID: -2399281096252415852
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Archer_WalkS_06
+      name: Characters01_Animation_ver_46
       rect:
         serializedVersion: 2
         x: 384
         y: 128
         width: 64
         height: 64
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 01114dfdec96143abbf518b620262919
-      internalID: 21300092
+      spriteID: 798b57a943db0ece0800000000000000
+      internalID: -1377893452348016489
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Archer_WalkS_07
+      name: Characters01_Animation_ver_47
       rect:
         serializedVersion: 2
         x: 448
         y: 128
         width: 64
         height: 64
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5b85f8f1b247a43f8812418923323e34
-      internalID: 21300094
+      spriteID: a5d8f0efa1cc61380800000000000000
+      internalID: -9000782388949709478
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Archer_WalkN_00
+      name: Characters01_Animation_ver_48
       rect:
         serializedVersion: 2
         x: 0
         y: 64
         width: 64
         height: 64
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 86dc9a6e7e1dd4fc48c41ab82f1891ea
-      internalID: 21300096
+      spriteID: 66a5eb0899fc58330800000000000000
+      internalID: 3712601726033746534
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Archer_WalkN_01
+      name: Characters01_Animation_ver_49
       rect:
         serializedVersion: 2
         x: 64
         y: 64
         width: 64
         height: 64
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cdc3b5eb5270d483ba33bdf98a75a5d2
-      internalID: 21300098
+      spriteID: e524fb1e6f98db200800000000000000
+      internalID: 197465652116537950
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Archer_WalkN_02
+      name: Characters01_Animation_ver_50
       rect:
         serializedVersion: 2
         x: 128
         y: 64
         width: 64
         height: 64
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a449470b2c3ef448593d6ffea9ecf4f5
-      internalID: 21300100
+      spriteID: 0ef4d7f24da03c2e0800000000000000
+      internalID: -2106828294233174048
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Archer_WalkN_03
+      name: Characters01_Animation_ver_51
       rect:
         serializedVersion: 2
         x: 192
         y: 64
         width: 64
         height: 64
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3a83ca4e0443344ba97aacc51ac81f5c
-      internalID: 21300102
+      spriteID: 26128f315d5f74cf0800000000000000
+      internalID: -267975357293387422
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Archer_WalkN_04
+      name: Characters01_Animation_ver_52
       rect:
         serializedVersion: 2
         x: 256
         y: 64
         width: 64
         height: 64
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3a2326096983b4350b7c42ce04c5a2ac
-      internalID: 21300104
+      spriteID: 833e99c5d60c4b830800000000000000
+      internalID: 4086102337869439800
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Archer_WalkN_05
+      name: Characters01_Animation_ver_53
       rect:
         serializedVersion: 2
         x: 320
         y: 64
         width: 64
         height: 64
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 683da5db8a4b54d038fa49a91bb7e757
-      internalID: 21300106
+      spriteID: 847d68e64a0bf8b70800000000000000
+      internalID: 8903529208610215752
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Archer_WalkN_06
+      name: Characters01_Animation_ver_54
       rect:
         serializedVersion: 2
         x: 384
         y: 64
         width: 64
         height: 64
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d5792d5a1936e4b69839d4a5a878b02b
-      internalID: 21300108
+      spriteID: 883ac16061dfe1d70800000000000000
+      internalID: 9015921775075959688
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Archer_WalkN_07
+      name: Characters01_Animation_ver_55
       rect:
         serializedVersion: 2
         x: 448
         y: 64
         width: 64
         height: 64
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b643db10fe7cf4b319fea8e135519b29
-      internalID: 21300110
+      spriteID: 99fba6d12397c08c0800000000000000
+      internalID: -4031714310254575719
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: _Archer
+      name: Characters01_Animation_ver_56
       rect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 64
         height: 64
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f2bd32efb12e4442b845e622e7199056
-      internalID: 21300112
+      spriteID: 624d4fb52852a1bc0800000000000000
+      internalID: -3811692892796955610
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Archer_Idle_01
+      name: Characters01_Animation_ver_57
       rect:
         serializedVersion: 2
         x: 64
         y: 0
         width: 64
         height: 64
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 486ccd9f76f0742c5b7fcb30ea2138a5
-      internalID: 21300114
+      spriteID: af77511478b2ea990800000000000000
+      internalID: -7372907680046417926
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Archer_Idle_02
+      name: Characters01_Animation_ver_58
       rect:
         serializedVersion: 2
         x: 128
         y: 0
         width: 64
         height: 64
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b6da0b48649904031ba55dcfb87014c7
-      internalID: 21300244
+      spriteID: b0d77aeeb8d350800800000000000000
+      internalID: 577935798400679179
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Archer_Idle_03
+      name: Characters01_Animation_ver_59
       rect:
         serializedVersion: 2
         x: 192
         y: 0
         width: 64
         height: 64
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e7ac3c785e5df4638bf27c3542adef87
-      internalID: 21300246
+      spriteID: 75931257dd46735c0800000000000000
+      internalID: -4235806022203000489
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Archer_Idle_04
+      name: Characters01_Animation_ver_60
       rect:
         serializedVersion: 2
         x: 256
         y: 0
         width: 64
         height: 64
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7f5fbfaf86346463d8291a5f01c3c0a5
-      internalID: 21300248
+      spriteID: 0237c7a4b1aa3e9f0800000000000000
+      internalID: -440321304361667808
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Archer_Idle_05
+      name: Characters01_Animation_ver_61
       rect:
         serializedVersion: 2
         x: 320
         y: 0
         width: 64
         height: 64
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 58c43ca807d6040daa2a75c9bb74ea6c
-      internalID: 21300250
+      spriteID: d09c36db340c15540800000000000000
+      internalID: 4994984858903365901
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Archer_Idle_06
+      name: Characters01_Animation_ver_62
       rect:
         serializedVersion: 2
         x: 384
         y: 0
         width: 64
         height: 64
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ac5606594f1c54eae8a780d25c83c128
-      internalID: 21300252
+      spriteID: 599a7416c98fc4360800000000000000
+      internalID: 7155367258515548565
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Archer_Idle_07
+      name: Characters01_Animation_ver_63
       rect:
         serializedVersion: 2
         x: 448
         y: 0
         width: 64
         height: 64
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fd1f9a521cf2d4cacb7ac45aef360f10
-      internalID: 21300254
+      spriteID: 83bdebe46acf48da0800000000000000
+      internalID: -5943347817006310600
       vertices: []
       indices: 
       edges: []
@@ -1860,7 +1629,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 65705cf16d102ed439236ad1968c5def
+    spriteID: 5e97eb03825dee720800000000000000
     internalID: 0
     vertices: []
     indices: 

@@ -4,6 +4,8 @@ using System.Collections.Generic;
 using RPGM.Gameplay;
 using UnityEngine;
 using UnityEngine.U2D;
+using UnityEngine.SceneManagement;
+
 
 namespace RPGM.Gameplay
 {
@@ -97,5 +99,18 @@ namespace RPGM.Gameplay
             spriteRenderer = GetComponent<SpriteRenderer>();
             pixelPerfectCamera = GameObject.FindObjectOfType<PixelPerfectCamera>();
         }
+
+        //碰到敌人重新加载场景
+        private void OnTriggerEnter2D(Collider2D other) {
+            if (other.tag == "Enemy"){
+                int index = SceneManager.GetActiveScene().buildIndex;
+                SceneManager.LoadScene(index);
+            }
+        }
+
+        // 消灭敌人
+        // private void OnCollisionEnter2D(Collision2D other) {
+            
+        // }
     }
 }

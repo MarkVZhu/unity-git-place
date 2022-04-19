@@ -9,11 +9,15 @@ public class archer_move : MonoBehaviour
     private bool isleft = true;
     public float speed;
     public float leftx,rightx;
+    private Animator Anim;
+    private Collider2D Coll;
 
     // Start is called before the first frame update
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
+        Anim = GetComponent<Animator>();
+        Coll = GetComponent<Collider2D>();
         // transform.DetachChildren();
         leftx = leftpoint.position.x;
         rightx = rightpoint.position.x;
@@ -24,7 +28,7 @@ public class archer_move : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        Movement();
+        // Movement();
     }
 
     void Movement(){
