@@ -15684,7 +15684,7 @@ GameObject:
   - component: {fileID: 231374923}
   m_Layer: 0
   m_Name: PotTall (2)
-  m_TagString: Untagged
+  m_TagString: Medicine
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -17785,7 +17785,7 @@ GameObject:
   - component: {fileID: 1047951411}
   m_Layer: 0
   m_Name: PotTall (1)
-  m_TagString: Untagged
+  m_TagString: Medicine
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -20888,7 +20888,7 @@ GameObject:
   - component: {fileID: 1799088389}
   m_Layer: 0
   m_Name: PotTall
-  m_TagString: Untagged
+  m_TagString: Medicine
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0

@@ -19,6 +19,7 @@ namespace RPGM.Gameplay
         public Vector3 nextMoveCommand;
         public Animator animator;
         public bool flipX = false;
+        public int medicine = 0;
 
         new Rigidbody2D rigidbody2D;
         SpriteRenderer spriteRenderer;
@@ -106,11 +107,20 @@ namespace RPGM.Gameplay
                 int index = SceneManager.GetActiveScene().buildIndex;
                 SceneManager.LoadScene(index);
             }
+
+            //碰到药瓶就销毁他，并且计数+1
+            if(other.tag=="Medicine")
+            {
+                Destroy(other.gameObject);
+                medicine += 1;
+            }
         }
+
+
 
         // 消灭敌人
         // private void OnCollisionEnter2D(Collision2D other) {
-            
+
         // }
     }
 }
