@@ -122,5 +122,15 @@ namespace RPGM.Gameplay
         // private void OnCollisionEnter2D(Collision2D other) {
 
         // }
+
+
+        //喝下3瓶药后，在屏幕上显示提示文字
+        private void ShowOnScreen()
+        {
+            if(medicine==3)
+            {
+                //显示一些话
+            }
+        }
     }
 }
