@@ -6,6 +6,8 @@ TagManager:
   tags:
   - Enemy
   - Medicine
+  - floor
+  - backgroud
   layers:
   - Default
   - TransparentFX
@@ -52,9 +54,9 @@ TagManager:
   - name: Maze
     uniqueID: 1793364951
     locked: 0
-  - name: character
-    uniqueID: 2777712093
-    locked: 0
   - name: Collections
     uniqueID: 1230824295
+    locked: 0
+  - name: character
+    uniqueID: 2777712093
     locked: 0

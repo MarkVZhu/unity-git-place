@@ -28,7 +28,7 @@ public class archer_move : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        // Movement();
+        Movement();
     }
 
     void Movement(){

@@ -101,11 +101,21 @@ namespace RPGM.Gameplay
             pixelPerfectCamera = GameObject.FindObjectOfType<PixelPerfectCamera>();
         }
 
-        //碰到敌人重新加载场景
+      
         private void OnTriggerEnter2D(Collider2D other) {
+            //碰到敌人重新加载场景
             if (other.tag == "Enemy"){
                 int index = SceneManager.GetActiveScene().buildIndex;
                 SceneManager.LoadScene(index);
+            }
+            //进门隐藏kitchen_over
+            if(other.tag == "floor"){
+                GameObject.Find("Kitchen_over").gameObject.SetActive(false);
+            }
+            if(other.tag == "backgroud"){
+                // Destroy(other.gameObject);
+                Transform over = transform.Find("/World").Find("Tilemaps").Find("Kitchen_over");
+                 over.gameObject.SetActive(true);
             }
 
             //碰到药瓶就销毁他，并且计数+1
@@ -116,12 +126,6 @@ namespace RPGM.Gameplay
             }
         }
 
-
-
-        // 消灭敌人
-        // private void OnCollisionEnter2D(Collision2D other) {
-
-        // }
 
 
         //喝下3瓶药后，在屏幕上显示提示文字
