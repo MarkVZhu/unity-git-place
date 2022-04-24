@@ -5,6 +5,7 @@ using RPGM.Gameplay;
 using UnityEngine;
 using UnityEngine.U2D;
 using UnityEngine.SceneManagement;
+using UnityEngine.UI;
 
 
 namespace RPGM.Gameplay
@@ -20,6 +21,7 @@ namespace RPGM.Gameplay
         public Animator animator;
         public bool flipX = false;
         public int medicine = 0;
+        public Text MedicineNum;
 
         new Rigidbody2D rigidbody2D;
         SpriteRenderer spriteRenderer;
@@ -123,6 +125,7 @@ namespace RPGM.Gameplay
             {
                 Destroy(other.gameObject);
                 medicine += 1;
+                MedicineNum.text = medicine.ToString();
             }
         }
 
