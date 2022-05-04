@@ -31,6 +31,8 @@ namespace RPGM.Gameplay
 
         public bool isGround;
         private bool isHurt;
+        private int WalkX=1;
+        private int WalkY=1;
 
         enum State
         {
@@ -79,14 +81,22 @@ namespace RPGM.Gameplay
             }
             if(isHurt)
             {
-                //animator.SetBool("hurt", true);
-                animator.SetFloat("WalkY", 0);
-                animator.SetFloat("WalkX", 0);
+                animator.SetBool("hurt", true);
+
                 if (Mathf.Abs(rigidbody2D.velocity.x) < 0.1f)
                 {
                     animator.SetBool("hurt", false);
-                    animator.SetInteger("WalkX", 1);
-                    animator.SetInteger("WalkY", 1);
+
+                    if(WalkX==0)
+                    {
+                        animator.SetInteger("WalkX", 1);
+                        WalkX = 1;
+                    }
+                    else if(WalkY==0)
+                    {
+                        animator.SetInteger("WalkY", 1);
+                        WalkY = 1;
+                    }
                     isHurt = false;
                 }
             }
@@ -142,31 +152,41 @@ namespace RPGM.Gameplay
             //碰到药瓶就销毁他，并且计数+1,角色喝药以后全身抖动
             if(other.tag=="Medicine")
             {
-                Destroy(other.gameObject);
-                medicine += 1;
-                MedicineNum.text = medicine.ToString();
-
+              
 
                 if (transform.position.x < other.gameObject.transform.position.x)
                 {
-                    rigidbody2D.velocity = new Vector2(-5,rigidbody2D.velocity.y);
                     isHurt = true;
+                    rigidbody2D.velocity = new Vector2(-5,rigidbody2D.velocity.y);
+                    animator.SetInteger("WalkX", 0);
+                    WalkX = 0;
+                   
                 }
                 else if(transform.position.x > other.gameObject.transform.position.x)
                 {
                     rigidbody2D.velocity = new Vector2(5, rigidbody2D.velocity.y);
                     isHurt = true;
+                    animator.SetInteger("WalkX", 0);
+                    WalkX = 0;
                 }
                 else if (transform.position.y > other.gameObject.transform.position.y)
                 {
                     rigidbody2D.velocity = new Vector2(rigidbody2D.velocity.x,5);
                     isHurt = true;
+                    animator.SetInteger("WalkY", 0);
+                    WalkY = 0;
                 }
                 else if (transform.position.y < other.gameObject.transform.position.y)
                 {
                     rigidbody2D.velocity = new Vector2(rigidbody2D.velocity.x, -5);
                     isHurt = true;
+                    animator.SetInteger("WalkY", 0);
+                    WalkY = 0;
                 }
+
+                //Destroy(other.gameObject);
+                medicine += 1;
+                MedicineNum.text = medicine.ToString();
 
             }
         }
