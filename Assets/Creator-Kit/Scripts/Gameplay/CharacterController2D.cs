@@ -75,7 +75,15 @@ namespace RPGM.Gameplay
             }
             else if(isHurt)
             {
-
+                animator.SetBool("hurt", true);
+                animator.SetFloat("WalkY", 0);
+                animator.SetFloat("WalkX", 0);
+                if (Mathf.Abs(rigidbody2D.velocity.x) < 0.1f)
+                {
+                    animator.SetBool("hurt", false);
+                    animator.SetBool("idle", true);
+                    isHurt = false;
+                }
             }
         }
 
