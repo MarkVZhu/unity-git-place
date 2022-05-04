@@ -132,7 +132,27 @@ namespace RPGM.Gameplay
                 medicine += 1;
                 MedicineNum.text = medicine.ToString();
 
-                animator.
+
+                if (transform.position.x < other.gameObject.transform.position.x)
+                {
+                    rigidbody2D.velocity = new Vector2(-5,rigidbody2D.velocity.y);
+                    isHurt = true;
+                }
+                else if(transform.position.x > other.gameObject.transform.position.x)
+                {
+                    rigidbody2D.velocity = new Vector2(5, rigidbody2D.velocity.y);
+                    isHurt = true;
+                }
+                else if (transform.position.y > other.gameObject.transform.position.y)
+                {
+                    rigidbody2D.velocity = new Vector2(rigidbody2D.velocity.x,5);
+                    isHurt = true;
+                }
+                else if (transform.position.y < other.gameObject.transform.position.y)
+                {
+                    rigidbody2D.velocity = new Vector2(rigidbody2D.velocity.x, -5);
+                    isHurt = true;
+                }
 
             }
         }
