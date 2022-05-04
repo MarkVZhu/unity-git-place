@@ -153,7 +153,7 @@ namespace RPGM.Gameplay
             if(other.tag=="Medicine")
             {
               
-
+                //角色从药丸的 <上，下，左，右> 靠近，都会产生抖动效果
                 if (transform.position.x < other.gameObject.transform.position.x)
                 {
                     isHurt = true;
@@ -184,6 +184,7 @@ namespace RPGM.Gameplay
                     WalkY = 0;
                 }
 
+                //销毁药丸
                 //Destroy(other.gameObject);
                 medicine += 1;
                 MedicineNum.text = medicine.ToString();
