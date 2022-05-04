@@ -73,15 +73,16 @@ namespace RPGM.Gameplay
                 animator.SetInteger("WalkX", direction.x < 0 ? -1 : direction.x > 0 ? 1 : 0);
                 animator.SetInteger("WalkY", direction.y < 0 ? 1 : direction.y > 0 ? -1 : 0);
             }
-            else if(isHurt)
+            if(isHurt)
             {
-                animator.SetBool("hurt", true);
+                //animator.SetBool("hurt", true);
                 animator.SetFloat("WalkY", 0);
                 animator.SetFloat("WalkX", 0);
                 if (Mathf.Abs(rigidbody2D.velocity.x) < 0.1f)
                 {
                     animator.SetBool("hurt", false);
-                    animator.SetBool("idle", true);
+                    animator.SetInteger("WalkX", 1);
+                    animator.SetInteger("WalkY", 1);
                     isHurt = false;
                 }
             }

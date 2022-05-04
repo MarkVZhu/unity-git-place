@@ -95,6 +95,9 @@ AnimatorStateTransition:
   - m_ConditionMode: 2
     m_ConditionEvent: hurt
     m_EventTreshold: 0
+  - m_ConditionMode: 3
+    m_ConditionEvent: WalkX
+    m_EventTreshold: 0
   m_DstStateMachine: {fileID: 0}
   m_DstState: {fileID: 1102742899529847372}
   m_Solo: 0
