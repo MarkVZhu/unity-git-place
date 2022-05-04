@@ -30,6 +30,7 @@ namespace RPGM.Gameplay
         public LayerMask WhatIsGround;
 
         public bool isGround;
+        private bool isHurt;
 
         enum State
         {
@@ -71,6 +72,10 @@ namespace RPGM.Gameplay
             {
                 animator.SetInteger("WalkX", direction.x < 0 ? -1 : direction.x > 0 ? 1 : 0);
                 animator.SetInteger("WalkY", direction.y < 0 ? 1 : direction.y > 0 ? -1 : 0);
+            }
+            else if(isHurt)
+            {
+
             }
         }
 
@@ -120,12 +125,15 @@ namespace RPGM.Gameplay
                  over.gameObject.SetActive(true);
             }
 
-            //碰到药瓶就销毁他，并且计数+1
+            //碰到药瓶就销毁他，并且计数+1,角色喝药以后全身抖动
             if(other.tag=="Medicine")
             {
                 Destroy(other.gameObject);
                 medicine += 1;
                 MedicineNum.text = medicine.ToString();
+
+                animator.
+
             }
         }
 
