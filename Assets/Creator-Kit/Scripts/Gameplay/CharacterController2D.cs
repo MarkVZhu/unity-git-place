@@ -46,6 +46,7 @@ namespace RPGM.Gameplay
 
         void IdleState()
         {
+            //静止态接到命令，向运动态过渡
             if (nextMoveCommand != Vector3.zero)
             {
                 start = transform.position;
@@ -62,9 +63,12 @@ namespace RPGM.Gameplay
         {
             velocity = Mathf.Clamp01(velocity + Time.deltaTime * acceleration);
             UpdateAnimator(nextMoveCommand);
+
+            //SmoothDamp: 当前位置，目标位置，当前速度，时间间隔，最终速度
             rigidbody2D.velocity = Vector2.SmoothDamp(rigidbody2D.velocity, nextMoveCommand * speed, ref currentVelocity, acceleration, speed);
+            //在X轴上翻转精灵
             spriteRenderer.flipX = rigidbody2D.velocity.x >= 0 ? true : false;
-        }
+        } 
 
         void UpdateAnimator(Vector3 direction)
         {
@@ -90,6 +94,7 @@ namespace RPGM.Gameplay
 
         void Update()
         {
+            //判断碰撞体是否掉到了圆域里 (圆形中心，圆形半径，筛选器)
             isGround = Physics2D.OverlapCircle(this.transform.position, 0.025f, WhatIsGround);
             switch (state)
             {
