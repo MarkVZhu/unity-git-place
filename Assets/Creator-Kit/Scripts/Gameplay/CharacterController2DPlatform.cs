@@ -149,6 +149,7 @@ namespace RPGM.Gameplay
             pixelPerfectCamera = GameObject.FindObjectOfType<PixelPerfectCamera>();
         }
         
+        // 碰到药剂跳跃变高
         void OnTriggerStay2D(Collider2D other) {
             if (other.tag == "Medicine"){
                 Destroy(other.gameObject);
@@ -157,6 +158,9 @@ namespace RPGM.Gameplay
                 // Destroy();
             }
         }
+        //碰到门转到下一个场景 
+        // int index = SceneManager.GetActiveScene().buildIndex;
+        //         SceneManager.LoadScene(index);
 
     }
 }
