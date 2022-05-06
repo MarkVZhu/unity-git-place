@@ -18,7 +18,7 @@ namespace RPGM.Gameplay
         public Animator animator;
         public bool flipX = false;
 
-        new Rigidbody2D rigidbody2D;
+        public  Rigidbody2D rigidbody2D;
         SpriteRenderer spriteRenderer;
         PixelPerfectCamera pixelPerfectCamera;
 
@@ -56,6 +56,7 @@ namespace RPGM.Gameplay
         float startTime;
         float distance;
         float velocity;
+        bool getmedicine = false;
 
         void IdleState()
         {
@@ -73,6 +74,7 @@ namespace RPGM.Gameplay
 
         void MoveState()
         {
+           
             velocity = Mathf.Clamp01(velocity + Time.deltaTime * acceleration);
             UpdateAnimator(nextMoveCommand);
             rigidbody2D.velocity = Vector2.SmoothDamp(rigidbody2D.velocity, nextMoveCommand * speed, ref currentVelocity, acceleration, speed);
@@ -106,7 +108,9 @@ namespace RPGM.Gameplay
         }
 
         void UpdateAnimator(Vector3 direction)
-        {
+        {   
+            if (getmedicine)
+                transform.localScale = new Vector3(2,2,0);
             if (animator)
             {
                 animator.SetInteger("WalkX", direction.x < 0 ? -1 : direction.x > 0 ? 1 : 0);
@@ -144,5 +148,15 @@ namespace RPGM.Gameplay
             spriteRenderer = GetComponent<SpriteRenderer>();
             pixelPerfectCamera = GameObject.FindObjectOfType<PixelPerfectCamera>();
         }
+        
+        void OnTriggerStay2D(Collider2D other) {
+            if (other.tag == "Medicine"){
+                Destroy(other.gameObject);
+                jumpPower = 60.0f;
+                getmedicine = true;
+                // Destroy();
+            }
+        }
+
     }
 }
