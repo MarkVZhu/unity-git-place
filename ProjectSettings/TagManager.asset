@@ -8,6 +8,8 @@ TagManager:
   - Medicine
   - floor
   - backgroud
+  - Treasure
+  - drug
   layers:
   - Default
   - TransparentFX

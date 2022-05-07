@@ -4,6 +4,7 @@ using System.Collections.Generic;
 using RPGM.Gameplay;
 using UnityEngine;
 using UnityEngine.U2D;
+using UnityEngine.SceneManagement;
 
 namespace RPGM.Gameplay
 {
@@ -56,7 +57,7 @@ namespace RPGM.Gameplay
         float startTime;
         float distance;
         float velocity;
-        bool getmedicine = false;
+        public bool getmedicine = false;
 
         void IdleState()
         {
@@ -150,17 +151,27 @@ namespace RPGM.Gameplay
         }
         
         // 碰到药剂跳跃变高
+        public GameObject hintlog;
+        public GameObject whitedoor;
+        public GameObject browndoor;
         void OnTriggerStay2D(Collider2D other) {
             if (other.tag == "Medicine"){
                 Destroy(other.gameObject);
                 jumpPower = 60.0f;
                 getmedicine = true;
-                // Destroy();
+                whitedoor.SetActive(false);
+                browndoor.SetActive(true);
+                hintlog.SetActive(true);
+
+            }
+            
+            if (getmedicine && other.tag == "backgroud"){
+                SceneManager.LoadScene("PushBox");
             }
         }
         //碰到门转到下一个场景 
-        // int index = SceneManager.GetActiveScene().buildIndex;
-        //         SceneManager.LoadScene(index);
+
+        
 
     }
 }
