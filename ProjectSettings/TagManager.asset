@@ -3,18 +3,12 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags:
-  - Enemy
-  - Medicine
-  - floor
-  - backgroud
-  - Treasure
-  - drug
+  tags: []
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - Background
+  - 
   - Water
   - UI
   - 
@@ -49,15 +43,6 @@ TagManager:
     locked: 0
   - name: background
     uniqueID: 2499174537
-    locked: 0
-  - name: UI
-    uniqueID: 3712945269
-    locked: 0
-  - name: Maze
-    uniqueID: 1793364951
-    locked: 0
-  - name: Collections
-    uniqueID: 1230824295
     locked: 0
   - name: character
     uniqueID: 2777712093
