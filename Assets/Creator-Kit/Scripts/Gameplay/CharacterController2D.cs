@@ -132,18 +132,28 @@ namespace RPGM.Gameplay
             pixelPerfectCamera = GameObject.FindObjectOfType<PixelPerfectCamera>();
         }
 
-        private float delayTime = 3;
-        
-        private void DelayFunc(){
-            // SceneManager.LoadScene("FirstRoom");
-            SceneManager.LoadScene("PushBox");
-            // Time.timeScale = 0f;
-        }
-      
         public GameObject Restart;
         public GameObject Kitchendoor;
         public GameObject Finsh;
-        public GameObject barrier;
+        public GameObject barrier, hint;
+
+
+        private void Start() {
+             Invoke("hidehint",3);
+
+        }
+
+        private float delayTime = 3;
+
+        private void DelayFunc(){
+            SceneManager.LoadScene("FirstRoom");
+            // SceneManager.LoadScene("PushBox");
+        }
+        private void hidehint(){
+            hint.SetActive(false);
+        }
+      
+        
 
         private void OnTriggerEnter2D(Collider2D other) {
             //碰到敌人重新加载场景
@@ -153,7 +163,6 @@ namespace RPGM.Gameplay
             }
             //进门隐藏kitchen_over
             if(other.tag == "floor"){
-                // GameObject.Find("Kitchen_over").gameObject.SetActive(false);
                 Kitchendoor.SetActive(false);
             }
             if(other.tag == "backgroud"){
@@ -174,13 +183,6 @@ namespace RPGM.Gameplay
             if(other.tag == "Treasure"){
                 Time.timeScale = 0f;
                 Finsh.SetActive(true);
-            }
-
-
-            // 当收集到三个药剂的时候删除barrier
-            if (medicine == 3)
-            {
-                barrier.SetActive(false);
             }
 
             //碰到药瓶就销毁他，并且计数+1,角色喝药以后全身抖动
@@ -223,6 +225,12 @@ namespace RPGM.Gameplay
                 medicine += 1;
                 MedicineNum.text = medicine.ToString();
                 Destroy(other.gameObject);
+                
+            // 当收集到三个药剂的时候删除barrier
+                 if (MedicineNum.text == "3")
+                {
+                    barrier.SetActive(false);
+                }
             }
         }
 
