@@ -27,5 +27,6 @@ public class Pause : MonoBehaviour
     public void Hom(){
         pausemenu.SetActive(false);
         SceneManager.LoadScene("MainScene");
+        Time.timeScale = 1f;
     }
 }
