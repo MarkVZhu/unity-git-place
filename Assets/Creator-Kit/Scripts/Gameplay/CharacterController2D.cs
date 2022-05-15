@@ -16,6 +16,7 @@ namespace RPGM.Gameplay
     public class CharacterController2D : MonoBehaviour
     {
         public float speed = 1;
+        public float rebound = 5;
         public float acceleration = 2;
         public Vector3 nextMoveCommand;
         public Animator animator;
@@ -185,7 +186,8 @@ namespace RPGM.Gameplay
                 Finsh.SetActive(true);
             }
 
-            //碰到药瓶就销毁他，并且计数+1,角色喝药以后全身抖动
+            //when player collides the pill, destroy it，and add pill-counting by 1.
+            //after character swallow the pill, his entire body will shake
             if(other.tag=="Medicine")
             {
               
@@ -193,35 +195,34 @@ namespace RPGM.Gameplay
                 if (transform.position.x < other.gameObject.transform.position.x)
                 {
                     isHurt = true;
-                    rigidbody2D.velocity = new Vector2(-5,rigidbody2D.velocity.y);
+                    rigidbody2D.velocity = new Vector2(-rebound,rigidbody2D.velocity.y);
                     animator.SetInteger("WalkX", 0);
                     WalkX = 0;
                    
                 }
                 else if(transform.position.x > other.gameObject.transform.position.x)
                 {
-                    rigidbody2D.velocity = new Vector2(5, rigidbody2D.velocity.y);
+                    rigidbody2D.velocity = new Vector2(rebound, rigidbody2D.velocity.y);
                     isHurt = true;
                     animator.SetInteger("WalkX", 0);
                     WalkX = 0;
                 }
                 else if (transform.position.y > other.gameObject.transform.position.y)
                 {
-                    rigidbody2D.velocity = new Vector2(rigidbody2D.velocity.x,5);
+                    rigidbody2D.velocity = new Vector2(rigidbody2D.velocity.x,rebound);
                     isHurt = true;
                     animator.SetInteger("WalkY", 0);
                     WalkY = 0;
                 }
                 else if (transform.position.y < other.gameObject.transform.position.y)
                 {
-                    rigidbody2D.velocity = new Vector2(rigidbody2D.velocity.x, -5);
+                    rigidbody2D.velocity = new Vector2(rigidbody2D.velocity.x, -rebound);
                     isHurt = true;
                     animator.SetInteger("WalkY", 0);
                     WalkY = 0;
                 }
 
-                //销毁药丸
-                //
+                //Destroy the pill
                 medicine += 1;
                 MedicineNum.text = medicine.ToString();
                 Destroy(other.gameObject);
